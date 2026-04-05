@@ -1,0 +1,3692 @@
+[
+  {
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceId": "CVPR2026",
+    "conferenceName": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "shortName": "CVPR 2026",
+    "year": 2026,
+    "location": "美国，丹佛",
+    "city": "丹佛",
+    "url": "https://cvpr.thecvf.com/Conferences/2026/Dates",
+    "dates": {
+      "paperDeadline": "2025-11-13",
+      "notification": "2026-02-20",
+      "conferenceStart": "2026-06-03",
+      "conferenceEnd": "2026-06-07"
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "中研",
+      "中媒"
+    ],
+    "seedIds": [
+      "seed-4-终端-CV-CVPR",
+      "seed-7-IAS-CV-CVPR",
+      "seed-10-计算-CV-CVPR",
+      "seed-27-中研-CV-CVPR",
+      "seed-34-中媒-CV-CVPR"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [
+          {
+            "personId": "p_06f4a53f",
+            "name": "Fei-Fei Li",
+            "title": "教授",
+            "affiliation": "Stanford University",
+            "linkedIn": "https://www.linkedin.com/in/fei-fei-li",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
+            "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=500&q=80"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.89
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [
+          {
+            "personId": "p_94cfa03d",
+            "name": "Deva Ramanan",
+            "title": "教授",
+            "affiliation": "Carnegie Mellon University",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.81
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_39d99a89",
+            "name": "Angjoo Kanazawa",
+            "title": "助理教授",
+            "affiliation": "UC Berkeley",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          },
+          {
+            "personId": "p_53c5de37",
+            "name": "Ce Liu",
+            "title": "研究科学家",
+            "affiliation": "Microsoft Research",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=thecvf.com/CVPR/2026/Conference",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.76
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-3d-frontier",
+        "name": "三维视觉前沿",
+        "description": "关注 3D 感知、生成与场景理解的最新进展。",
+        "organizers": [
+          {
+            "personId": "p_85a7f1ce",
+            "name": "张三",
+            "title": "教授",
+            "affiliation": "清华大学",
+            "linkedIn": "https://linkedin.com/in/zhangsan",
+            "github": "https://github.com/zhangsan",
+            "gScholar": "https://scholar.google.com/citations?user=ZHANGSAN"
+          },
+          {
+            "personId": "p_5ceab68e",
+            "name": "李四",
+            "title": "副教授",
+            "affiliation": "北京大学",
+            "linkedIn": "https://linkedin.com/in/lisi",
+            "github": "https://github.com/lisi",
+            "gScholar": "https://scholar.google.com/citations?user=LISI"
+          }
+        ],
+        "url": "https://cvpr2026-workshop-3d.org",
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com/workshops",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.74
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "https://cvpr.thecvf.com/Conferences/2026/Dates",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceId": "ECCV2026",
+    "conferenceName": "European Conference on Computer Vision",
+    "shortName": "ECCV 2026",
+    "year": 2026,
+    "location": "瑞典，马尔默",
+    "city": "马尔默",
+    "url": "https://eccv.ecva.net/Conferences/2026/Dates",
+    "dates": {
+      "paperDeadline": "2026-03-05",
+      "notification": "2026-06-17",
+      "conferenceStart": "2026-09-08",
+      "conferenceEnd": "2026-09-13"
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "中研",
+      "中媒"
+    ],
+    "seedIds": [
+      "seed-5-终端-CV-ECCV",
+      "seed-8-IAS-CV-ECCV",
+      "seed-11-计算-CV-ECCV",
+      "seed-28-中研-CV-ECCV",
+      "seed-35-中媒-CV-ECCV"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://eccv.ecva.net",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://eccv.ecva.net",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://eccv.ecva.net",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://eccv.ecva.net/Conferences/2026/Dates",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceId": "SIGGRAPH2026",
+    "conferenceName": "ACM SIGGRAPH",
+    "shortName": "Siggraph 2026",
+    "year": 2026,
+    "location": "美国，洛杉矶",
+    "city": "洛杉矶",
+    "url": "https://s2026.siggraph.org/program/panels/",
+    "dates": {
+      "paperDeadline": "2026-02-10",
+      "notification": "",
+      "conferenceStart": "2026-07-19",
+      "conferenceEnd": "2026-07-23"
+    },
+    "ruBus": [
+      "终端",
+      "中媒",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-4-终端-图形图像-Siggraph",
+      "seed-34-中媒-图形图像-Siggraph",
+      "seed-42-海思-图形图像-Siggraph"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://s2026.siggraph.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://s2026.siggraph.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://s2026.siggraph.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://s2026.siggraph.org/program/panels/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceId": "VALSE2026",
+    "conferenceName": "Vision And Learning SEminar",
+    "shortName": "VALSE 2026",
+    "year": 2026,
+    "location": "中国，武汉",
+    "city": "武汉",
+    "url": "https://valser.org/2026/#/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-08",
+      "conferenceEnd": "2026-05-10"
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "中媒"
+    ],
+    "seedIds": [
+      "seed-5-终端-图形图像-VALSE",
+      "seed-7-IAS-图形图像-VALSE",
+      "seed-35-中媒-图形图像-VALSE"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://valser.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://valser.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://valser.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://valser.org/2026/#/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "推荐搜索",
+    "conferenceId": "RECSYS2026",
+    "conferenceName": "ACM Conference on Recommender Systems",
+    "shortName": "RecSys 2026",
+    "year": 2026,
+    "location": "美国，明尼阿波利斯",
+    "city": "明尼阿波利斯",
+    "url": "https://recsys.acm.org/recsys26/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-09-28",
+      "conferenceEnd": "2026-10-02"
+    },
+    "ruBus": [
+      "终端",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-4-终端-推荐搜索-RecSys",
+      "seed-27-中研-推荐搜索-RecSys"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://recsys.acm.org/recsys26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://recsys.acm.org/recsys26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://recsys.acm.org/recsys26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://recsys.acm.org/recsys26/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceId": "ICLR2026",
+    "conferenceName": "International Conference on Learning Representations",
+    "shortName": "ICLR 2026",
+    "year": 2026,
+    "location": "巴西，里约热内卢",
+    "city": "里约热内卢",
+    "url": "https://iclr.cc/Conferences/2026",
+    "dates": {
+      "paperDeadline": "2025-09-24",
+      "notification": "2026-01-25",
+      "conferenceStart": "2026-04-23",
+      "conferenceEnd": "2026-04-27"
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "华为云",
+      "中研",
+      "中软",
+      "中媒",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-4-终端-综合-ICLR",
+      "seed-7-IAS-综合-ICLR",
+      "seed-10-计算-综合-ICLR",
+      "seed-17-华为云-综合-ICLR",
+      "seed-27-中研-综合-ICLR",
+      "seed-30-中软-综合-ICLR",
+      "seed-34-中媒-综合-ICLR",
+      "seed-39-可信-综合-ICLR"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [
+          {
+            "personId": "p_21fcb834",
+            "name": "Yoshua Bengio",
+            "title": "教授",
+            "affiliation": "Universite de Montreal",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://iclr.cc",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.83
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [
+          {
+            "personId": "p_5f2c68d9",
+            "name": "Ari Morcos",
+            "title": "研究员",
+            "affiliation": "Anthropic",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          },
+          {
+            "personId": "p_5a8b31ea",
+            "name": "Sara Hooker",
+            "title": "研究负责人",
+            "affiliation": "Cohere Labs",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://iclr.cc/Conferences/2026/CallForPapers",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.8
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_8e8d9565",
+            "name": "Diyi Yang",
+            "title": "副教授",
+            "affiliation": "Stanford University",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=ICLR.cc/2026/Conference",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.77
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-agentic-ai",
+        "name": "Agentic AI for Science",
+        "description": "关注科学发现中的智能体系统与评测。",
+        "organizers": [
+          {
+            "personId": "p_6516570f",
+            "name": "Danai Koutra",
+            "title": "副教授",
+            "affiliation": "University of Michigan",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "url": "https://openreview.net/group?id=ICLR.cc/2026/Workshop",
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.72
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "https://iclr.cc/Conferences/2026",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceId": "ICML2026",
+    "conferenceName": "International Conference on Machine Learning",
+    "shortName": "ICML 2026",
+    "year": 2026,
+    "location": "韩国，首尔",
+    "city": "首尔",
+    "url": "https://icml.cc",
+    "dates": {
+      "paperDeadline": "2026-01-28",
+      "notification": "2026-04-30",
+      "conferenceStart": "2026-07-06",
+      "conferenceEnd": "2026-07-11"
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "华为云",
+      "中研",
+      "中软",
+      "中媒",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-5-终端-综合-ICML",
+      "seed-8-IAS-综合-ICML",
+      "seed-11-计算-综合-ICML",
+      "seed-18-华为云-综合-ICML",
+      "seed-28-中研-综合-ICML",
+      "seed-31-中软-综合-ICML",
+      "seed-35-中媒-综合-ICML",
+      "seed-40-可信-综合-ICML"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icml.cc",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icml.cc",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icml.cc",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://icml.cc",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceId": "NIPS2026",
+    "conferenceName": "Neural Information Processing Systems",
+    "shortName": "NIPS 2026",
+    "year": 2026,
+    "location": "澳大利亚，悉尼",
+    "city": "悉尼",
+    "url": "https://neurips.cc/Conferences/2026",
+    "dates": {
+      "paperDeadline": "2026-05-06",
+      "notification": "2026-09-24",
+      "conferenceStart": "2026-12-06",
+      "conferenceEnd": "2026-12-12"
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "华为云",
+      "中研",
+      "中软",
+      "中媒",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-6-终端-综合-NIPS",
+      "seed-9-IAS-综合-NIPS",
+      "seed-12-计算-综合-NIPS",
+      "seed-19-华为云-综合-NIPS",
+      "seed-29-中研-综合-NIPS",
+      "seed-32-中软-综合-NIPS",
+      "seed-36-中媒-综合-NIPS",
+      "seed-41-可信-综合-NIPS"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://neurips.cc",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://neurips.cc",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://neurips.cc",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://neurips.cc/Conferences/2026",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "半导体",
+    "subTrack": "器件",
+    "conferenceId": "FAST2026",
+    "conferenceName": "USENIX Conference on File and Storage Technologies",
+    "shortName": "FAST 2026",
+    "year": 2026,
+    "location": "美国，圣克拉拉",
+    "city": "圣克拉拉",
+    "url": "https://www.usenix.org/conference/fast26",
+    "dates": {
+      "paperDeadline": "2025-09-16",
+      "notification": "2025-12-08",
+      "conferenceStart": "2026-02-24",
+      "conferenceEnd": "2026-02-26"
+    },
+    "ruBus": [
+      "数存"
+    ],
+    "seedIds": [
+      "seed-15-数存-器件-FAST"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/fast26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/fast26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/fast26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.usenix.org/conference/fast26",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "半导体",
+    "subTrack": "器件",
+    "conferenceId": "IEDM2026",
+    "conferenceName": "IEEE International Electron Devices Meeting",
+    "shortName": "IEDM 2026",
+    "year": 2026,
+    "location": "美国，旧金山",
+    "city": "旧金山",
+    "url": "https://www.ieee-iedm.org/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-12-12",
+      "conferenceEnd": "2026-12-16"
+    },
+    "ruBus": [
+      "计算",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-10-计算-器件-IEDM",
+      "seed-42-海思-器件-IEDM"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ieee-iedm.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ieee-iedm.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ieee-iedm.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.ieee-iedm.org/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "半导体",
+    "subTrack": "器件",
+    "conferenceId": "IMW2026",
+    "conferenceName": "International Memory Workshop",
+    "shortName": "IMW 2026",
+    "year": 2026,
+    "location": "比利时，鲁汶",
+    "city": "鲁汶",
+    "url": "https://ewh.ieee.org/soc/eds/imw/index.htm",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-10",
+      "conferenceEnd": "2026-05-13"
+    },
+    "ruBus": [
+      "数存",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-14-数存-器件-IMW",
+      "seed-43-海思-器件-IMW"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ewh.ieee.org/conf/imw/",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ewh.ieee.org/conf/imw/",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ewh.ieee.org/conf/imw/",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://ewh.ieee.org/soc/eds/imw/index.htm",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "半导体",
+    "subTrack": "封装",
+    "conferenceId": "ECTC2026",
+    "conferenceName": "Electronic Components and Technology Conference",
+    "shortName": "ECTC 2026",
+    "year": 2026,
+    "location": "美国，奥兰多",
+    "city": "奥兰多",
+    "url": "https://ectc.net/location/index.cfm",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-26",
+      "conferenceEnd": "2026-05-29"
+    },
+    "ruBus": [
+      "中硬",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-37-中硬-封装-ECTC",
+      "seed-42-海思-封装-ECTC"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ectc.net",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ectc.net",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ectc.net",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://ectc.net/location/index.cfm",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "半导体",
+    "subTrack": "微架构",
+    "conferenceId": "MICRO2026",
+    "conferenceName": "IEEE/ACM International Symposium on Microarchitecture",
+    "shortName": "MICRO 2026",
+    "year": 2026,
+    "location": "希腊，雅典",
+    "city": "雅典",
+    "url": "https://microarch.org/micro59/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-10-31",
+      "conferenceEnd": "2026-11-04"
+    },
+    "ruBus": [
+      "计算",
+      "中软",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-10-计算-微架构-MICRO",
+      "seed-30-中软-微架构-MICRO",
+      "seed-42-海思-微架构-MICRO"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.microarch.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.microarch.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.microarch.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://microarch.org/micro59/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "半导体",
+    "subTrack": "设计",
+    "conferenceId": "HOTCHIPS2026",
+    "conferenceName": "Hot Chips Symposium",
+    "shortName": "Hot Chips 2026",
+    "year": 2026,
+    "location": "美国，帕洛阿尔托",
+    "city": "帕洛阿尔托",
+    "url": "https://hotchips.org/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-08-23",
+      "conferenceEnd": "2026-08-25"
+    },
+    "ruBus": [
+      "海思"
+    ],
+    "seedIds": [
+      "seed-44-海思-设计-HotChips"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.hotchips.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.hotchips.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.hotchips.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://hotchips.org/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "半导体",
+    "subTrack": "设计",
+    "conferenceId": "ISSCC2026",
+    "conferenceName": "IEEE International Solid-State Circuits Conference",
+    "shortName": "ISSCC 2026",
+    "year": 2026,
+    "location": "美国，旧金山",
+    "city": "旧金山",
+    "url": "https://www.isscc.org/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-02-15",
+      "conferenceEnd": "2026-02-19"
+    },
+    "ruBus": [
+      "计算",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-10-计算-设计-ISSCC",
+      "seed-42-海思-设计-ISSCC"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.isscc.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.isscc.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.isscc.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.isscc.org/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "半导体",
+    "subTrack": "设计",
+    "conferenceId": "VLSI2026",
+    "conferenceName": "Symposium on VLSI Technology and Circuits",
+    "shortName": "VLSI 2026",
+    "year": 2026,
+    "location": "美国，檀香山",
+    "city": "檀香山",
+    "url": "https://www.vlsisymposium.org/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-06-14",
+      "conferenceEnd": "2026-06-18"
+    },
+    "ruBus": [
+      "计算",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-11-计算-设计-VLSI",
+      "seed-43-海思-设计-VLSI"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.vlsisymposium.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.vlsisymposium.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.vlsisymposium.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.vlsisymposium.org/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "硬件工程",
+    "subTrack": "散热",
+    "conferenceId": "ITHERM2026",
+    "conferenceName": "IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems",
+    "shortName": "iTherm 2026",
+    "year": 2026,
+    "location": "美国，奥兰多",
+    "city": "奥兰多",
+    "url": "https://www.ieee-itherm.net",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-26",
+      "conferenceEnd": "2026-05-29"
+    },
+    "ruBus": [
+      "计算",
+      "中硬",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-10-计算-散热-Itherm",
+      "seed-37-中硬-散热-Itherm",
+      "seed-42-海思-散热-Itherm"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ieee-itherm.net",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ieee-itherm.net",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ieee-itherm.net",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.ieee-itherm.net",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "硬件工程",
+    "subTrack": "散热",
+    "conferenceId": "THEMILINK2026",
+    "conferenceName": "ThemiLink Thermal Management Conference",
+    "shortName": "ThemiLink 2026",
+    "year": 2026,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "计算",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-11-计算-散热-Themilink",
+      "seed-43-海思-散热-Themilink"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.1
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.1
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.1
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.2
+    },
+    "status": "seed_only"
+  },
+  {
+    "domain": "硬件工程",
+    "subTrack": "散热",
+    "conferenceId": "THERMINIC2026",
+    "conferenceName": "THERMINIC Workshop",
+    "shortName": "Therminic 2026",
+    "year": 2026,
+    "location": "德国，柏林",
+    "city": "柏林",
+    "url": "https://therminic.eu/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-09-16",
+      "conferenceEnd": "2026-09-18"
+    },
+    "ruBus": [
+      "中硬"
+    ],
+    "seedIds": [
+      "seed-38-中硬-散热-Therminic"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://therminic2026.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://therminic2026.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://therminic2026.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://therminic.eu/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "终端",
+    "subTrack": "人机交互",
+    "conferenceId": "CHI2026",
+    "conferenceName": "ACM Conference on Human Factors in Computing Systems",
+    "shortName": "CHI 2026",
+    "year": 2026,
+    "location": "西班牙，巴塞罗那",
+    "city": "巴塞罗那",
+    "url": "https://chi2026.acm.org/attendees/local-info/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-04-13",
+      "conferenceEnd": "2026-04-17"
+    },
+    "ruBus": [
+      "终端",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-4-终端-人机交互-CHI",
+      "seed-27-中研-人机交互-CHI"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://chi2026.acm.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://chi2026.acm.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://chi2026.acm.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://chi2026.acm.org/attendees/local-info/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "终端",
+    "subTrack": "运动健康",
+    "conferenceId": "ESC2026",
+    "conferenceName": "Embedded Systems Conference",
+    "shortName": "ESC 2026",
+    "year": 2026,
+    "location": "待官网公布",
+    "city": "待公布",
+    "url": "https://www.embedded.com",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端"
+    ],
+    "seedIds": [
+      "seed-4-终端-运动健康-ESC"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.embedded.com",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.embedded.com",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.embedded.com",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.embedded.com",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "终端",
+    "subTrack": "运动健康",
+    "conferenceId": "ESH2026",
+    "conferenceName": "European Society of Hypertension Annual Meeting",
+    "shortName": "ESH 2026",
+    "year": 2026,
+    "location": "波兰，格但斯克",
+    "city": "格但斯克",
+    "url": "https://eshannualmeetings.eu/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-28",
+      "conferenceEnd": "2026-05-31"
+    },
+    "ruBus": [
+      "终端"
+    ],
+    "seedIds": [
+      "seed-5-终端-运动健康-ESH"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.1
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.1
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.1
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://eshannualmeetings.eu/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "光",
+    "conferenceId": "ECOC2026",
+    "conferenceName": "European Conference on Optical Communication",
+    "shortName": "ECOC 2026",
+    "year": 2026,
+    "location": "西班牙，马拉加",
+    "city": "马拉加",
+    "url": "https://ecoc2026.org/ecoc2026/call-special-symposia",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-09-20",
+      "conferenceEnd": "2026-09-24"
+    },
+    "ruBus": [
+      "光",
+      "中研",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-24-光-光-ECOC",
+      "seed-28-中研-光-ECOC",
+      "seed-43-海思-光-ECOC"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ecoc2026.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ecoc2026.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ecoc2026.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://ecoc2026.org/ecoc2026/call-special-symposia",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "光",
+    "conferenceId": "OFC2026",
+    "conferenceName": "Optical Fiber Communication Conference",
+    "shortName": "OFC 2026",
+    "year": 2026,
+    "location": "美国，洛杉矶",
+    "city": "洛杉矶",
+    "url": "https://www.ofcconference.org/news-media/news-releases/2026/ofc-2026-plenary-speakers",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-03-15",
+      "conferenceEnd": "2026-03-19"
+    },
+    "ruBus": [
+      "光",
+      "中研",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-23-光-光-OFC",
+      "seed-27-中研-光-OFC",
+      "seed-42-海思-光-OFC"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ofcconference.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ofcconference.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ofcconference.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.ofcconference.org/news-media/news-releases/2026/ofc-2026-plenary-speakers",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "无线",
+    "conferenceId": "ICC2026",
+    "conferenceName": "IEEE International Conference on Communications",
+    "shortName": "ICC 2026",
+    "year": 2026,
+    "location": "英国，格拉斯哥",
+    "city": "格拉斯哥",
+    "url": "https://icc2026.ieee-icc.org/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-24",
+      "conferenceEnd": "2026-05-28"
+    },
+    "ruBus": [
+      "无线",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-21-无线-无线-ICC",
+      "seed-27-中研-无线-ICC"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icc2026.ieee-icc.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icc2026.ieee-icc.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icc2026.ieee-icc.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://icc2026.ieee-icc.org/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "无线",
+    "conferenceId": "微波周2026",
+    "conferenceName": "IEEE Microwave Week",
+    "shortName": "微波周 2026",
+    "year": 2026,
+    "location": "待官网公布",
+    "city": "待公布",
+    "url": "https://www.microwaveweek.org",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "无线",
+      "光",
+      "数通",
+      "中硬",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-22-无线-无线-微波周",
+      "seed-23-光-无线-微波周",
+      "seed-25-数通-无线-微波周",
+      "seed-37-中硬-无线-微波周",
+      "seed-42-海思-无线-微波周"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.microwaveweek.org",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.microwaveweek.org",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.microwaveweek.org",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.microwaveweek.org",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.45
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceId": "ISIT2026",
+    "conferenceName": "IEEE International Symposium on Information Theory",
+    "shortName": "ISIT 2026",
+    "year": 2026,
+    "location": "中国，广州",
+    "city": "广州",
+    "url": "https://2026.ieee-isit.org/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-06-28",
+      "conferenceEnd": "2026-07-03"
+    },
+    "ruBus": [
+      "无线",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-21-无线-综合及基础理论-ISIT",
+      "seed-27-中研-综合及基础理论-ISIT"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.ieee-isit.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.ieee-isit.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.ieee-isit.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://2026.ieee-isit.org/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceId": "电子学2026",
+    "conferenceName": "中国电子学会年会",
+    "shortName": "电子学会年会 2026",
+    "year": 2026,
+    "location": "中国，待公布",
+    "city": "待公布",
+    "url": "https://www.cie.org.cn",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "光"
+    ],
+    "seedIds": [
+      "seed-23-光-综合及基础理论-电子学"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.cie.org.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.cie.org.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.cie.org.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.cie.org.cn",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.45
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceId": "通信学2026",
+    "conferenceName": "中国通信学术会议",
+    "shortName": "通信学 2026",
+    "year": 2026,
+    "location": "中国，待公布",
+    "city": "待公布",
+    "url": "https://www.china-cic.cn",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "中研"
+    ],
+    "seedIds": [
+      "seed-28-中研-综合及基础理论-通信学"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.china-cic.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.china-cic.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.china-cic.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.china-cic.cn",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.45
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceId": "会年会2026",
+    "conferenceName": "中国通信学会年会",
+    "shortName": "通信学会年会 2026",
+    "year": 2026,
+    "location": "中国，待公布",
+    "city": "待公布",
+    "url": "https://www.china-cic.cn",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "光",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-24-光-综合及基础理论-会年会",
+      "seed-29-中研-综合及基础理论-会年会"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.china-cic.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.china-cic.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.china-cic.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.china-cic.cn",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.45
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceId": "NSDI2026",
+    "conferenceName": "USENIX Symposium on Networked Systems Design and Implementation",
+    "shortName": "NSDI 2026",
+    "year": 2026,
+    "location": "美国，伦顿",
+    "city": "伦顿",
+    "url": "https://www.usenix.org/conference/nsdi26",
+    "dates": {
+      "paperDeadline": "2025-09-18",
+      "notification": "2025-12-09",
+      "conferenceStart": "2026-05-04",
+      "conferenceEnd": "2026-05-06"
+    },
+    "ruBus": [
+      "计算",
+      "华为云",
+      "中研",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-10-计算-网络-NSDI",
+      "seed-17-华为云-网络-NSDI",
+      "seed-29-中研-网络-NSDI",
+      "seed-30-中软-网络-NSDI"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/nsdi26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/nsdi26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/nsdi26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.usenix.org/conference/nsdi26",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceId": "SIGCOMM2026",
+    "conferenceName": "ACM SIGCOMM",
+    "shortName": "SigComm 2026",
+    "year": 2026,
+    "location": "美国，丹佛",
+    "city": "丹佛",
+    "url": "https://conferences.sigcomm.org/sigcomm/2026/",
+    "dates": {
+      "paperDeadline": "2026-02-06",
+      "notification": "",
+      "conferenceStart": "2026-08-17",
+      "conferenceEnd": "2026-08-21"
+    },
+    "ruBus": [
+      "数通",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-25-数通-网络-SigComm",
+      "seed-27-中研-网络-SigComm"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conferences.sigcomm.org/sigcomm/2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conferences.sigcomm.org/sigcomm/2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conferences.sigcomm.org/sigcomm/2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://conferences.sigcomm.org/sigcomm/2026/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceId": "网络大会2026",
+    "conferenceName": "中国网络相关大会",
+    "shortName": "网络大会 2026",
+    "year": 2026,
+    "location": "中国，待公布",
+    "city": "待公布",
+    "url": "https://www.ccf.org.cn",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "数通",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-26-数通-网络-网络大会",
+      "seed-28-中研-网络-网络大会"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ccf.org.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ccf.org.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.ccf.org.cn",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.ccf.org.cn",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.45
+    },
+    "status": "published"
+  },
+  {
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceId": "ASPLOS2026",
+    "conferenceName": "ACM International Conference on Architectural Support for Programming Languages and Operating Systems",
+    "shortName": "ASPLOS 2026",
+    "year": 2026,
+    "location": "美国，匹兹堡",
+    "city": "匹兹堡",
+    "url": "https://www.asplos-conference.org/asplos2026/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-03-22",
+      "conferenceEnd": "2026-03-26"
+    },
+    "ruBus": [
+      "计算",
+      "中研",
+      "中软",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-11-计算-体系架构-ASPLOS",
+      "seed-28-中研-体系架构-ASPLOS",
+      "seed-31-中软-体系架构-ASPLOS",
+      "seed-43-海思-体系架构-ASPLOS"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://asplos-conference.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://asplos-conference.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://asplos-conference.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.asplos-conference.org/asplos2026/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceId": "ISCA2026",
+    "conferenceName": "International Symposium on Computer Architecture",
+    "shortName": "ISCA 2026",
+    "year": 2026,
+    "location": "美国，罗利",
+    "city": "罗利",
+    "url": "https://iscaconf.org/isca2026/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-06-27",
+      "conferenceEnd": "2026-07-01"
+    },
+    "ruBus": [
+      "计算",
+      "中研",
+      "中软",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-10-计算-体系架构-ISCA",
+      "seed-27-中研-体系架构-ISCA",
+      "seed-30-中软-体系架构-ISCA",
+      "seed-42-海思-体系架构-ISCA"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://iscaconf.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://iscaconf.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://iscaconf.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://iscaconf.org/isca2026/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "计算",
+    "subTrack": "综合",
+    "conferenceId": "CNCC2026",
+    "conferenceName": "中国计算机大会",
+    "shortName": "CNCC 2026",
+    "year": 2026,
+    "location": "中国，待公布",
+    "city": "待公布",
+    "url": "https://cncc.ccf.org.cn",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "计算",
+      "中软",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-4-终端-综合-CNCC",
+      "seed-10-计算-综合-CNCC",
+      "seed-30-中软-综合-CNCC",
+      "seed-42-海思-综合-CNCC"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://cncc.ccf.org.cn",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://cncc.ccf.org.cn",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://cncc.ccf.org.cn",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://cncc.ccf.org.cn",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceId": "FAST2026",
+    "conferenceName": "USENIX Conference on File and Storage Technologies",
+    "shortName": "FAST 2026",
+    "year": 2026,
+    "location": "美国，圣克拉拉",
+    "city": "圣克拉拉",
+    "url": "https://www.usenix.org/conference/fast26",
+    "dates": {
+      "paperDeadline": "2025-09-16",
+      "notification": "2025-12-08",
+      "conferenceStart": "2026-02-24",
+      "conferenceEnd": "2026-02-26"
+    },
+    "ruBus": [
+      "中软"
+    ],
+    "seedIds": [
+      "seed-30-中软-高性能计算及存储-FAST"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/fast26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/fast26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/fast26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.usenix.org/conference/fast26",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceId": "HPCCHINA2026",
+    "conferenceName": "HPC China",
+    "shortName": "HPC China 2026",
+    "year": 2026,
+    "location": "中国，待公布",
+    "city": "待公布",
+    "url": "https://hpcchina.org",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "计算",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-11-计算-高性能计算及存储-HPCChina",
+      "seed-29-中研-高性能计算及存储-HPCCHINA"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://hpcchina.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://hpcchina.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://hpcchina.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://hpcchina.org",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceId": "SC2026",
+    "conferenceName": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+    "shortName": "SC 2026",
+    "year": 2026,
+    "location": "美国，芝加哥",
+    "city": "芝加哥",
+    "url": "https://sc26.supercomputing.org/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-11-15",
+      "conferenceEnd": "2026-11-20"
+    },
+    "ruBus": [
+      "计算",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-12-计算-高性能计算及存储-SC",
+      "seed-27-中研-高性能计算及存储-SC"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://sc26.supercomputing.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://sc26.supercomputing.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://sc26.supercomputing.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://sc26.supercomputing.org/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceId": "存储大会2026",
+    "conferenceName": "全国存储技术大会",
+    "shortName": "存储大会 2026",
+    "year": 2026,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "数存",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-15-数存-高性能计算及存储-存储大会",
+      "seed-28-中研-高性能计算及存储-存储大会"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.1
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.1
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T09:55:25.051Z",
+          "confidence": 0.1
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.12
+    },
+    "status": "seed_only"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceId": "ATC2026",
+    "conferenceName": "USENIX Annual Technical Conference",
+    "shortName": "ATC 2026",
+    "year": 2026,
+    "location": "待官网公布",
+    "city": "待公布",
+    "url": "https://www.usenix.org/conference/atc26",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "计算",
+      "华为云",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-13-计算-OS及分布式-ATC",
+      "seed-20-华为云-OS及分布式-ATC",
+      "seed-33-中软-OS及分布式-ATC"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/atc26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/atc26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/atc26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.usenix.org/conference/atc26",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceId": "EUROSYS2026",
+    "conferenceName": "EuroSys Conference",
+    "shortName": "EuroSys 2026",
+    "year": 2026,
+    "location": "英国，爱丁堡",
+    "city": "爱丁堡",
+    "url": "https://2026.eurosys.org/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-04-27",
+      "conferenceEnd": "2026-04-30"
+    },
+    "ruBus": [
+      "计算",
+      "数存",
+      "华为云",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-10-计算-OS及分布式-EuroSys",
+      "seed-14-数存-OS及分布式-EuroSys",
+      "seed-17-华为云-OS及分布式-EuroSys",
+      "seed-30-中软-OS及分布式-EuroSys"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.eurosys.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.eurosys.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.eurosys.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://2026.eurosys.org/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceId": "OSDI2026",
+    "conferenceName": "USENIX Symposium on Operating Systems Design and Implementation",
+    "shortName": "OSDI 2026",
+    "year": 2026,
+    "location": "美国，西雅图",
+    "city": "西雅图",
+    "url": "https://www.usenix.org/conference/osdi26",
+    "dates": {
+      "paperDeadline": "2025-12-11",
+      "notification": "",
+      "conferenceStart": "2026-07-13",
+      "conferenceEnd": "2026-07-15"
+    },
+    "ruBus": [
+      "计算",
+      "华为云",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-12-计算-OS及分布式-OSDI",
+      "seed-19-华为云-OS及分布式-OSDI",
+      "seed-32-中软-OS及分布式-OSDI"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/osdi26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/osdi26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://www.usenix.org/conference/osdi26",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://www.usenix.org/conference/osdi26",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceId": "SOSP2026",
+    "conferenceName": "ACM Symposium on Operating Systems Principles",
+    "shortName": "SOSP 2026",
+    "year": 2026,
+    "location": "待官网公布",
+    "city": "待公布",
+    "url": "https://sosp.org",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "计算",
+      "华为云",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-11-计算-OS及分布式-SOSP",
+      "seed-18-华为云-OS及分布式-SOSP",
+      "seed-31-中软-OS及分布式-SOSP"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://sosp.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://sosp.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://sosp.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://sosp.org",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceId": "ICDE2026",
+    "conferenceName": "IEEE International Conference on Data Engineering",
+    "shortName": "ICDE 2026",
+    "year": 2026,
+    "location": "待官网公布",
+    "city": "待公布",
+    "url": "https://icde2026.github.io",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "计算",
+      "数存",
+      "华为云",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-12-计算-数据库-ICDE",
+      "seed-16-数存-数据库-ICDE",
+      "seed-19-华为云-数据库-ICDE",
+      "seed-32-中软-数据库-ICDE"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icde2026.github.io",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icde2026.github.io",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icde2026.github.io",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://icde2026.github.io",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceId": "SIGMOD2026",
+    "conferenceName": "ACM SIGMOD/PODS International Conference on Management of Data",
+    "shortName": "SIGMOD 2026",
+    "year": 2026,
+    "location": "印度，班加罗尔",
+    "city": "班加罗尔",
+    "url": "https://2026.sigmod.org/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-31",
+      "conferenceEnd": "2026-06-05"
+    },
+    "ruBus": [
+      "计算",
+      "数存",
+      "华为云",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-10-计算-数据库-SIGMOD",
+      "seed-14-数存-数据库-SIGMOD",
+      "seed-17-华为云-数据库-SIGMOD",
+      "seed-30-中软-数据库-SIGMOD"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.sigmod.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.sigmod.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.sigmod.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://2026.sigmod.org/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceId": "VLDB2026",
+    "conferenceName": "International Conference on Very Large Data Bases",
+    "shortName": "VLDB 2026",
+    "year": 2026,
+    "location": "美国，波士顿",
+    "city": "波士顿",
+    "url": "https://vldb.org/2026/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-08-31",
+      "conferenceEnd": "2026-09-04"
+    },
+    "ruBus": [
+      "计算",
+      "数存",
+      "华为云",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-11-计算-数据库-VLDB",
+      "seed-15-数存-数据库-VLDB",
+      "seed-18-华为云-数据库-VLDB",
+      "seed-31-中软-数据库-VLDB"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://vldb.org/2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://vldb.org/2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://vldb.org/2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://vldb.org/2026/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceId": "CAIS2026",
+    "conferenceName": "China Conference on AI and Software Engineering",
+    "shortName": "CAIS 2026",
+    "year": 2026,
+    "location": "待官网公布",
+    "city": "待公布",
+    "url": "https://ccf.org.cn/CAIS",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "华为云",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-5-终端-新兴及综合-CAIS",
+      "seed-18-华为云-新兴及综合-CAIS",
+      "seed-31-中软-新兴及综合-CAIS"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ccf.org.cn/CAIS",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ccf.org.cn/CAIS",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ccf.org.cn/CAIS",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://ccf.org.cn/CAIS",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceId": "CHINASOFT2026",
+    "conferenceName": "China National Software Conference",
+    "shortName": "ChinaSoft 2026",
+    "year": 2026,
+    "location": "中国，天津",
+    "city": "天津",
+    "url": "https://chinasoft.ccf.org.cn/2026/",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "华为云",
+      "中软",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-4-终端-新兴及综合-ChinaSoft",
+      "seed-17-华为云-新兴及综合-ChinaSoft",
+      "seed-30-中软-新兴及综合-ChinaSoft",
+      "seed-39-可信-新兴及综合-ChinaSoft"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ccf.org.cn/ChinaSoft",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ccf.org.cn/ChinaSoft",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://ccf.org.cn/ChinaSoft",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://chinasoft.ccf.org.cn/2026/",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceId": "MLSYS2026",
+    "conferenceName": "Conference on Machine Learning and Systems",
+    "shortName": "MlSys 2026",
+    "year": 2026,
+    "location": "美国，贝尔维尤",
+    "city": "贝尔维尤",
+    "url": "https://mlsys.org/Conferences/2026/Dates",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-18",
+      "conferenceEnd": "2026-05-22"
+    },
+    "ruBus": [
+      "计算",
+      "中研",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-10-计算-新兴及综合-MlSys",
+      "seed-27-中研-新兴及综合-MLSys",
+      "seed-32-中软-新兴及综合-MlSys"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://mlsys.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://mlsys.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://mlsys.org",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://mlsys.org/Conferences/2026/Dates",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "编译器与编程语言",
+    "conferenceId": "CGO2026",
+    "conferenceName": "IEEE/ACM International Symposium on Code Generation and Optimization",
+    "shortName": "CGO 2026",
+    "year": 2026,
+    "location": "澳大利亚，悉尼",
+    "city": "悉尼",
+    "url": "https://conf.researchr.org/home/cgo-2026",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-01-31",
+      "conferenceEnd": "2026-02-04"
+    },
+    "ruBus": [
+      "计算",
+      "中软"
+    ],
+    "seedIds": [
+      "seed-10-计算-编译器与编程语言-CGO",
+      "seed-30-中软-编译器与编程语言-CGO"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conf.researchr.org/home/cgo-2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conf.researchr.org/home/cgo-2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conf.researchr.org/home/cgo-2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://conf.researchr.org/home/cgo-2026",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "编译器与编程语言",
+    "conferenceId": "OOSPLA2026",
+    "conferenceName": "ACM SIGPLAN OOPSLA",
+    "shortName": "OOSPLA 2026",
+    "year": 2026,
+    "location": "美国，奥克兰",
+    "city": "奥克兰",
+    "url": "https://2026.splashcon.org/track/oopsla-2026",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-10-03",
+      "conferenceEnd": "2026-10-09"
+    },
+    "ruBus": [
+      "中软",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-31-中软-编译器与编程语言-OOSPLA",
+      "seed-39-可信-编译器与编程语言-OOSPLA"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.splashcon.org/track/splash-2026-oopsla",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.splashcon.org/track/splash-2026-oopsla",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://2026.splashcon.org/track/splash-2026-oopsla",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://2026.splashcon.org/track/oopsla-2026",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "软件工程",
+    "conferenceId": "ASE2026",
+    "conferenceName": "IEEE/ACM International Conference on Automated Software Engineering",
+    "shortName": "ASE 2026",
+    "year": 2026,
+    "location": "德国，慕尼黑",
+    "city": "慕尼黑",
+    "url": "https://conf.researchr.org/home/ase-2026",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-10-12",
+      "conferenceEnd": "2026-10-16"
+    },
+    "ruBus": [
+      "终端",
+      "华为云",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-5-终端-软件工程-ASE",
+      "seed-18-华为云-软件工程-ASE",
+      "seed-40-可信-软件工程-ASE"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conf.researchr.org/home/ase-2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conf.researchr.org/home/ase-2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conf.researchr.org/home/ase-2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://conf.researchr.org/home/ase-2026",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  },
+  {
+    "domain": "软件",
+    "subTrack": "软件工程",
+    "conferenceId": "ICSE2026",
+    "conferenceName": "International Conference on Software Engineering",
+    "shortName": "ICSE 2026",
+    "year": 2026,
+    "location": "巴西，里约热内卢",
+    "city": "里约热内卢",
+    "url": "https://conf.researchr.org/dates/icse-2026",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-04-12",
+      "conferenceEnd": "2026-04-18"
+    },
+    "ruBus": [
+      "终端",
+      "华为云",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-4-终端-软件工程-ICSE",
+      "seed-17-华为云-软件工程-ICSE",
+      "seed-39-可信-软件工程-ICSE"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conf.researchr.org/home/icse-2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conf.researchr.org/home/icse-2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://conf.researchr.org/home/icse-2026",
+          "fetchedAt": "2026-04-02T08:19:59.206Z",
+          "confidence": 0.4
+        }
+      }
+    ],
+    "workshops": [],
+    "source": {
+      "sourceUrl": "https://conf.researchr.org/dates/icse-2026",
+      "fetchedAt": "2026-04-02T09:55:25.051Z",
+      "confidence": 0.8
+    },
+    "status": "published"
+  }
+]
