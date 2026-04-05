@@ -1,0 +1,1298 @@
+[
+  {
+    "seedId": "seed-4-终端-CV-CVPR",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "CVPR",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-综合-ICLR",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-图形图像-Siggraph",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceLabel": "Siggraph",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-推荐搜索-RecSys",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "推荐搜索",
+    "conferenceLabel": "RecSys",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-运动健康-ESC",
+    "ruBu": "终端",
+    "domain": "终端",
+    "subTrack": "运动健康",
+    "conferenceLabel": "ESC",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-人机交互-CHI",
+    "ruBu": "终端",
+    "domain": "终端",
+    "subTrack": "人机交互",
+    "conferenceLabel": "CHI",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-软件工程-ICSE",
+    "ruBu": "终端",
+    "domain": "软件",
+    "subTrack": "软件工程",
+    "conferenceLabel": "ICSE",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-新兴及综合-ChinaSoft",
+    "ruBu": "终端",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "ChinaSoft",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-综合-CNCC",
+    "ruBu": "终端",
+    "domain": "计算",
+    "subTrack": "综合",
+    "conferenceLabel": "CNCC",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-5-终端-CV-ECCV",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "ECCV",
+    "sourceRow": 5
+  },
+  {
+    "seedId": "seed-5-终端-综合-ICML",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICML",
+    "sourceRow": 5
+  },
+  {
+    "seedId": "seed-5-终端-图形图像-VALSE",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceLabel": "VALSE",
+    "sourceRow": 5
+  },
+  {
+    "seedId": "seed-5-终端-运动健康-ESH",
+    "ruBu": "终端",
+    "domain": "终端",
+    "subTrack": "运动健康",
+    "conferenceLabel": "ESH",
+    "sourceRow": 5
+  },
+  {
+    "seedId": "seed-5-终端-软件工程-ASE",
+    "ruBu": "终端",
+    "domain": "软件",
+    "subTrack": "软件工程",
+    "conferenceLabel": "ASE",
+    "sourceRow": 5
+  },
+  {
+    "seedId": "seed-5-终端-新兴及综合-CAIS",
+    "ruBu": "终端",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "CAIS",
+    "sourceRow": 5
+  },
+  {
+    "seedId": "seed-6-终端-综合-NIPS",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "NIPS",
+    "sourceRow": 6
+  },
+  {
+    "seedId": "seed-7-IAS-CV-CVPR",
+    "ruBu": "IAS",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "CVPR",
+    "sourceRow": 7
+  },
+  {
+    "seedId": "seed-7-IAS-综合-ICLR",
+    "ruBu": "IAS",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 7
+  },
+  {
+    "seedId": "seed-7-IAS-图形图像-VALSE",
+    "ruBu": "IAS",
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceLabel": "VALSE",
+    "sourceRow": 7
+  },
+  {
+    "seedId": "seed-8-IAS-CV-ECCV",
+    "ruBu": "IAS",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "ECCV",
+    "sourceRow": 8
+  },
+  {
+    "seedId": "seed-8-IAS-综合-ICML",
+    "ruBu": "IAS",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICML",
+    "sourceRow": 8
+  },
+  {
+    "seedId": "seed-9-IAS-综合-NIPS",
+    "ruBu": "IAS",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "NIPS",
+    "sourceRow": 9
+  },
+  {
+    "seedId": "seed-10-计算-CV-CVPR",
+    "ruBu": "计算",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "CVPR",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-综合-ICLR",
+    "ruBu": "计算",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-OS及分布式-EuroSys",
+    "ruBu": "计算",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "EuroSys",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-数据库-SIGMOD",
+    "ruBu": "计算",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "SIGMOD",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-编译器与编程语言-CGO",
+    "ruBu": "计算",
+    "domain": "软件",
+    "subTrack": "编译器与编程语言",
+    "conferenceLabel": "CGO",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-新兴及综合-MlSys",
+    "ruBu": "计算",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "MlSys",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-体系架构-ISCA",
+    "ruBu": "计算",
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceLabel": "ISCA",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-高性能计算及存储-HPCAFAST",
+    "ruBu": "计算",
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceLabel": "HPCA FAST",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-综合-CNCC",
+    "ruBu": "计算",
+    "domain": "计算",
+    "subTrack": "综合",
+    "conferenceLabel": "CNCC",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-网络-NSDI",
+    "ruBu": "计算",
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceLabel": "NSDI",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-微架构-MICRO",
+    "ruBu": "计算",
+    "domain": "半导体",
+    "subTrack": "微架构",
+    "conferenceLabel": "MICRO",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-设计-ISSCC",
+    "ruBu": "计算",
+    "domain": "半导体",
+    "subTrack": "设计",
+    "conferenceLabel": "ISSCC",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-器件-IEDM",
+    "ruBu": "计算",
+    "domain": "半导体",
+    "subTrack": "器件",
+    "conferenceLabel": "IEDM",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-10-计算-散热-Itherm",
+    "ruBu": "计算",
+    "domain": "硬件工程",
+    "subTrack": "散热",
+    "conferenceLabel": "Itherm",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-11-计算-CV-ECCV",
+    "ruBu": "计算",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "ECCV",
+    "sourceRow": 11
+  },
+  {
+    "seedId": "seed-11-计算-综合-ICML",
+    "ruBu": "计算",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICML",
+    "sourceRow": 11
+  },
+  {
+    "seedId": "seed-11-计算-OS及分布式-SOSP",
+    "ruBu": "计算",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "SOSP",
+    "sourceRow": 11
+  },
+  {
+    "seedId": "seed-11-计算-数据库-VLDB",
+    "ruBu": "计算",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "VLDB",
+    "sourceRow": 11
+  },
+  {
+    "seedId": "seed-11-计算-体系架构-ASPLOS",
+    "ruBu": "计算",
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceLabel": "ASPLOS",
+    "sourceRow": 11
+  },
+  {
+    "seedId": "seed-11-计算-高性能计算及存储-HPCChina",
+    "ruBu": "计算",
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceLabel": "HPC China",
+    "sourceRow": 11
+  },
+  {
+    "seedId": "seed-11-计算-设计-VLSI",
+    "ruBu": "计算",
+    "domain": "半导体",
+    "subTrack": "设计",
+    "conferenceLabel": "VLSI",
+    "sourceRow": 11
+  },
+  {
+    "seedId": "seed-11-计算-散热-Themilink",
+    "ruBu": "计算",
+    "domain": "硬件工程",
+    "subTrack": "散热",
+    "conferenceLabel": "Themilink",
+    "sourceRow": 11
+  },
+  {
+    "seedId": "seed-12-计算-综合-NIPS",
+    "ruBu": "计算",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "NIPS",
+    "sourceRow": 12
+  },
+  {
+    "seedId": "seed-12-计算-OS及分布式-OSDI",
+    "ruBu": "计算",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "OSDI",
+    "sourceRow": 12
+  },
+  {
+    "seedId": "seed-12-计算-数据库-ICDE",
+    "ruBu": "计算",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "ICDE",
+    "sourceRow": 12
+  },
+  {
+    "seedId": "seed-12-计算-高性能计算及存储-SC",
+    "ruBu": "计算",
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceLabel": "SC",
+    "sourceRow": 12
+  },
+  {
+    "seedId": "seed-13-计算-OS及分布式-ATC",
+    "ruBu": "计算",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "ATC",
+    "sourceRow": 13
+  },
+  {
+    "seedId": "seed-14-数存-OS及分布式-EuroSys",
+    "ruBu": "数存",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "EuroSys",
+    "sourceRow": 14
+  },
+  {
+    "seedId": "seed-14-数存-数据库-SIGMOD",
+    "ruBu": "数存",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "SIGMOD",
+    "sourceRow": 14
+  },
+  {
+    "seedId": "seed-14-数存-高性能计算及存储-SCFAST",
+    "ruBu": "数存",
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceLabel": "SC FAST",
+    "sourceRow": 14
+  },
+  {
+    "seedId": "seed-14-数存-器件-IMW",
+    "ruBu": "数存",
+    "domain": "半导体",
+    "subTrack": "器件",
+    "conferenceLabel": "IMW",
+    "sourceRow": 14
+  },
+  {
+    "seedId": "seed-15-数存-数据库-VLDB",
+    "ruBu": "数存",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "VLDB",
+    "sourceRow": 15
+  },
+  {
+    "seedId": "seed-15-数存-高性能计算及存储-存储大会",
+    "ruBu": "数存",
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceLabel": "存储大会",
+    "sourceRow": 15
+  },
+  {
+    "seedId": "seed-15-数存-器件-FAST",
+    "ruBu": "数存",
+    "domain": "半导体",
+    "subTrack": "器件",
+    "conferenceLabel": "FAST",
+    "sourceRow": 15
+  },
+  {
+    "seedId": "seed-16-数存-数据库-ICDE",
+    "ruBu": "数存",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "ICDE",
+    "sourceRow": 16
+  },
+  {
+    "seedId": "seed-17-华为云-综合-ICLR",
+    "ruBu": "华为云",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 17
+  },
+  {
+    "seedId": "seed-17-华为云-OS及分布式-EuroSys",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "EuroSys",
+    "sourceRow": 17
+  },
+  {
+    "seedId": "seed-17-华为云-数据库-SIGMOD",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "SIGMOD",
+    "sourceRow": 17
+  },
+  {
+    "seedId": "seed-17-华为云-软件工程-ICSE",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "软件工程",
+    "conferenceLabel": "ICSE",
+    "sourceRow": 17
+  },
+  {
+    "seedId": "seed-17-华为云-新兴及综合-ChinaSoft",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "ChinaSoft",
+    "sourceRow": 17
+  },
+  {
+    "seedId": "seed-17-华为云-网络-NSDI",
+    "ruBu": "华为云",
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceLabel": "NSDI",
+    "sourceRow": 17
+  },
+  {
+    "seedId": "seed-18-华为云-综合-ICML",
+    "ruBu": "华为云",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICML",
+    "sourceRow": 18
+  },
+  {
+    "seedId": "seed-18-华为云-OS及分布式-SOSP",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "SOSP",
+    "sourceRow": 18
+  },
+  {
+    "seedId": "seed-18-华为云-数据库-VLDB",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "VLDB",
+    "sourceRow": 18
+  },
+  {
+    "seedId": "seed-18-华为云-软件工程-ASE",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "软件工程",
+    "conferenceLabel": "ASE",
+    "sourceRow": 18
+  },
+  {
+    "seedId": "seed-18-华为云-新兴及综合-CAIS",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "CAIS",
+    "sourceRow": 18
+  },
+  {
+    "seedId": "seed-19-华为云-综合-NIPS",
+    "ruBu": "华为云",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "NIPS",
+    "sourceRow": 19
+  },
+  {
+    "seedId": "seed-19-华为云-OS及分布式-OSDI",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "OSDI",
+    "sourceRow": 19
+  },
+  {
+    "seedId": "seed-19-华为云-数据库-ICDE",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "ICDE",
+    "sourceRow": 19
+  },
+  {
+    "seedId": "seed-20-华为云-OS及分布式-ATC",
+    "ruBu": "华为云",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "ATC",
+    "sourceRow": 20
+  },
+  {
+    "seedId": "seed-21-无线-无线-ICC",
+    "ruBu": "无线",
+    "domain": "联接",
+    "subTrack": "无线",
+    "conferenceLabel": "ICC",
+    "sourceRow": 21
+  },
+  {
+    "seedId": "seed-21-无线-综合及基础理论-ISIT",
+    "ruBu": "无线",
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceLabel": "ISIT",
+    "sourceRow": 21
+  },
+  {
+    "seedId": "seed-22-无线-无线-微波周",
+    "ruBu": "无线",
+    "domain": "联接",
+    "subTrack": "无线",
+    "conferenceLabel": "微波周",
+    "sourceRow": 22
+  },
+  {
+    "seedId": "seed-23-光-光-OFC",
+    "ruBu": "光",
+    "domain": "联接",
+    "subTrack": "光",
+    "conferenceLabel": "OFC",
+    "sourceRow": 23
+  },
+  {
+    "seedId": "seed-23-光-无线-微波周",
+    "ruBu": "光",
+    "domain": "联接",
+    "subTrack": "无线",
+    "conferenceLabel": "微波周",
+    "sourceRow": 23
+  },
+  {
+    "seedId": "seed-23-光-综合及基础理论-电子学",
+    "ruBu": "光",
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceLabel": "电子学",
+    "sourceRow": 23
+  },
+  {
+    "seedId": "seed-24-光-光-ECOC",
+    "ruBu": "光",
+    "domain": "联接",
+    "subTrack": "光",
+    "conferenceLabel": "ECOC",
+    "sourceRow": 24
+  },
+  {
+    "seedId": "seed-24-光-综合及基础理论-会年会",
+    "ruBu": "光",
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceLabel": "会年会",
+    "sourceRow": 24
+  },
+  {
+    "seedId": "seed-25-数通-无线-微波周",
+    "ruBu": "数通",
+    "domain": "联接",
+    "subTrack": "无线",
+    "conferenceLabel": "微波周",
+    "sourceRow": 25
+  },
+  {
+    "seedId": "seed-25-数通-网络-SigComm",
+    "ruBu": "数通",
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceLabel": "SigComm",
+    "sourceRow": 25
+  },
+  {
+    "seedId": "seed-26-数通-网络-网络大会",
+    "ruBu": "数通",
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceLabel": "网络大会",
+    "sourceRow": 26
+  },
+  {
+    "seedId": "seed-27-中研-CV-CVPR",
+    "ruBu": "中研",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "CVPR",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-综合-ICLR",
+    "ruBu": "中研",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-推荐搜索-RecSys",
+    "ruBu": "中研",
+    "domain": "AI",
+    "subTrack": "推荐搜索",
+    "conferenceLabel": "RecSys",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-人机交互-CHI",
+    "ruBu": "中研",
+    "domain": "终端",
+    "subTrack": "人机交互",
+    "conferenceLabel": "CHI",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-新兴及综合-MLSys",
+    "ruBu": "中研",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "MLSys",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-体系架构-ISCA",
+    "ruBu": "中研",
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceLabel": "ISCA",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-高性能计算及存储-SC",
+    "ruBu": "中研",
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceLabel": "SC",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-光-OFC",
+    "ruBu": "中研",
+    "domain": "联接",
+    "subTrack": "光",
+    "conferenceLabel": "OFC",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-无线-ICC",
+    "ruBu": "中研",
+    "domain": "联接",
+    "subTrack": "无线",
+    "conferenceLabel": "ICC",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-网络-SigComm",
+    "ruBu": "中研",
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceLabel": "SigComm",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-27-中研-综合及基础理论-ISIT",
+    "ruBu": "中研",
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceLabel": "ISIT",
+    "sourceRow": 27
+  },
+  {
+    "seedId": "seed-28-中研-CV-ECCV",
+    "ruBu": "中研",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "ECCV",
+    "sourceRow": 28
+  },
+  {
+    "seedId": "seed-28-中研-综合-ICML",
+    "ruBu": "中研",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICML",
+    "sourceRow": 28
+  },
+  {
+    "seedId": "seed-28-中研-体系架构-ASPLOS",
+    "ruBu": "中研",
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceLabel": "ASPLOS",
+    "sourceRow": 28
+  },
+  {
+    "seedId": "seed-28-中研-高性能计算及存储-存储大会",
+    "ruBu": "中研",
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceLabel": "存储大会",
+    "sourceRow": 28
+  },
+  {
+    "seedId": "seed-28-中研-光-ECOC",
+    "ruBu": "中研",
+    "domain": "联接",
+    "subTrack": "光",
+    "conferenceLabel": "ECOC",
+    "sourceRow": 28
+  },
+  {
+    "seedId": "seed-28-中研-网络-网络大会",
+    "ruBu": "中研",
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceLabel": "网络大会",
+    "sourceRow": 28
+  },
+  {
+    "seedId": "seed-28-中研-综合及基础理论-通信学",
+    "ruBu": "中研",
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceLabel": "通信学",
+    "sourceRow": 28
+  },
+  {
+    "seedId": "seed-29-中研-综合-NIPS",
+    "ruBu": "中研",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "NIPS",
+    "sourceRow": 29
+  },
+  {
+    "seedId": "seed-29-中研-高性能计算及存储-HPCCHINA",
+    "ruBu": "中研",
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceLabel": "HPC CHINA",
+    "sourceRow": 29
+  },
+  {
+    "seedId": "seed-29-中研-网络-NSDI",
+    "ruBu": "中研",
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceLabel": "NSDI",
+    "sourceRow": 29
+  },
+  {
+    "seedId": "seed-29-中研-综合及基础理论-会年会",
+    "ruBu": "中研",
+    "domain": "联接",
+    "subTrack": "综合及基础理论",
+    "conferenceLabel": "会年会",
+    "sourceRow": 29
+  },
+  {
+    "seedId": "seed-30-中软-综合-ICLR",
+    "ruBu": "中软",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-30-中软-OS及分布式-EuroSys",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "EuroSys",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-30-中软-数据库-SIGMOD",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "SIGMOD",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-30-中软-编译器与编程语言-CGO",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "编译器与编程语言",
+    "conferenceLabel": "CGO",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-30-中软-新兴及综合-ChinaSoft",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "ChinaSoft",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-30-中软-体系架构-ISCA",
+    "ruBu": "中软",
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceLabel": "ISCA",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-30-中软-高性能计算及存储-FAST",
+    "ruBu": "中软",
+    "domain": "计算",
+    "subTrack": "高性能计算及存储",
+    "conferenceLabel": "FAST",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-30-中软-综合-CNCC",
+    "ruBu": "中软",
+    "domain": "计算",
+    "subTrack": "综合",
+    "conferenceLabel": "CNCC",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-30-中软-网络-NSDI",
+    "ruBu": "中软",
+    "domain": "联接",
+    "subTrack": "网络",
+    "conferenceLabel": "NSDI",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-30-中软-微架构-MICRO",
+    "ruBu": "中软",
+    "domain": "半导体",
+    "subTrack": "微架构",
+    "conferenceLabel": "MICRO",
+    "sourceRow": 30
+  },
+  {
+    "seedId": "seed-31-中软-综合-ICML",
+    "ruBu": "中软",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICML",
+    "sourceRow": 31
+  },
+  {
+    "seedId": "seed-31-中软-OS及分布式-SOSP",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "SOSP",
+    "sourceRow": 31
+  },
+  {
+    "seedId": "seed-31-中软-数据库-VLDB",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "VLDB",
+    "sourceRow": 31
+  },
+  {
+    "seedId": "seed-31-中软-编译器与编程语言-OOSPLA",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "编译器与编程语言",
+    "conferenceLabel": "OOSPLA",
+    "sourceRow": 31
+  },
+  {
+    "seedId": "seed-31-中软-新兴及综合-CAIS",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "CAIS",
+    "sourceRow": 31
+  },
+  {
+    "seedId": "seed-31-中软-体系架构-ASPLOS",
+    "ruBu": "中软",
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceLabel": "ASPLOS",
+    "sourceRow": 31
+  },
+  {
+    "seedId": "seed-32-中软-综合-NIPS",
+    "ruBu": "中软",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "NIPS",
+    "sourceRow": 32
+  },
+  {
+    "seedId": "seed-32-中软-OS及分布式-OSDI",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "OSDI",
+    "sourceRow": 32
+  },
+  {
+    "seedId": "seed-32-中软-数据库-ICDE",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "数据库",
+    "conferenceLabel": "ICDE",
+    "sourceRow": 32
+  },
+  {
+    "seedId": "seed-32-中软-新兴及综合-MlSys",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "MlSys",
+    "sourceRow": 32
+  },
+  {
+    "seedId": "seed-33-中软-OS及分布式-ATC",
+    "ruBu": "中软",
+    "domain": "软件",
+    "subTrack": "OS及分布式",
+    "conferenceLabel": "ATC",
+    "sourceRow": 33
+  },
+  {
+    "seedId": "seed-34-中媒-CV-CVPR",
+    "ruBu": "中媒",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "CVPR",
+    "sourceRow": 34
+  },
+  {
+    "seedId": "seed-34-中媒-综合-ICLR",
+    "ruBu": "中媒",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 34
+  },
+  {
+    "seedId": "seed-34-中媒-图形图像-Siggraph",
+    "ruBu": "中媒",
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceLabel": "Siggraph",
+    "sourceRow": 34
+  },
+  {
+    "seedId": "seed-35-中媒-CV-ECCV",
+    "ruBu": "中媒",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "ECCV",
+    "sourceRow": 35
+  },
+  {
+    "seedId": "seed-35-中媒-综合-ICML",
+    "ruBu": "中媒",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICML",
+    "sourceRow": 35
+  },
+  {
+    "seedId": "seed-35-中媒-图形图像-VALSE",
+    "ruBu": "中媒",
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceLabel": "VALSE",
+    "sourceRow": 35
+  },
+  {
+    "seedId": "seed-36-中媒-综合-NIPS",
+    "ruBu": "中媒",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "NIPS",
+    "sourceRow": 36
+  },
+  {
+    "seedId": "seed-37-中硬-无线-微波周",
+    "ruBu": "中硬",
+    "domain": "联接",
+    "subTrack": "无线",
+    "conferenceLabel": "微波周",
+    "sourceRow": 37
+  },
+  {
+    "seedId": "seed-37-中硬-封装-ECTC",
+    "ruBu": "中硬",
+    "domain": "半导体",
+    "subTrack": "封装",
+    "conferenceLabel": "ECTC",
+    "sourceRow": 37
+  },
+  {
+    "seedId": "seed-37-中硬-散热-Itherm",
+    "ruBu": "中硬",
+    "domain": "硬件工程",
+    "subTrack": "散热",
+    "conferenceLabel": "Itherm",
+    "sourceRow": 37
+  },
+  {
+    "seedId": "seed-37-中硬-电力电子-PwRSoC_2027_",
+    "ruBu": "中硬",
+    "domain": "硬件工程",
+    "subTrack": "电力电子",
+    "conferenceLabel": "PwRSoC（2027）",
+    "sourceRow": 37
+  },
+  {
+    "seedId": "seed-38-中硬-散热-Therminic",
+    "ruBu": "中硬",
+    "domain": "硬件工程",
+    "subTrack": "散热",
+    "conferenceLabel": "Therminic",
+    "sourceRow": 38
+  },
+  {
+    "seedId": "seed-39-可信-综合-ICLR",
+    "ruBu": "可信",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 39
+  },
+  {
+    "seedId": "seed-39-可信-编译器与编程语言-OOSPLA",
+    "ruBu": "可信",
+    "domain": "软件",
+    "subTrack": "编译器与编程语言",
+    "conferenceLabel": "OOSPLA",
+    "sourceRow": 39
+  },
+  {
+    "seedId": "seed-39-可信-软件工程-ICSE",
+    "ruBu": "可信",
+    "domain": "软件",
+    "subTrack": "软件工程",
+    "conferenceLabel": "ICSE",
+    "sourceRow": 39
+  },
+  {
+    "seedId": "seed-39-可信-新兴及综合-ChinaSoft",
+    "ruBu": "可信",
+    "domain": "软件",
+    "subTrack": "新兴及综合",
+    "conferenceLabel": "ChinaSoft",
+    "sourceRow": 39
+  },
+  {
+    "seedId": "seed-40-可信-综合-ICML",
+    "ruBu": "可信",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICML",
+    "sourceRow": 40
+  },
+  {
+    "seedId": "seed-40-可信-软件工程-ASE",
+    "ruBu": "可信",
+    "domain": "软件",
+    "subTrack": "软件工程",
+    "conferenceLabel": "ASE",
+    "sourceRow": 40
+  },
+  {
+    "seedId": "seed-41-可信-综合-NIPS",
+    "ruBu": "可信",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "NIPS",
+    "sourceRow": 41
+  },
+  {
+    "seedId": "seed-42-海思-图形图像-Siggraph",
+    "ruBu": "海思",
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceLabel": "Siggraph",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-体系架构-ISCA",
+    "ruBu": "海思",
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceLabel": "ISCA",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-综合-CNCC",
+    "ruBu": "海思",
+    "domain": "计算",
+    "subTrack": "综合",
+    "conferenceLabel": "CNCC",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-光-OFC",
+    "ruBu": "海思",
+    "domain": "联接",
+    "subTrack": "光",
+    "conferenceLabel": "OFC",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-无线-微波周",
+    "ruBu": "海思",
+    "domain": "联接",
+    "subTrack": "无线",
+    "conferenceLabel": "微波周",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-微架构-MICRO",
+    "ruBu": "海思",
+    "domain": "半导体",
+    "subTrack": "微架构",
+    "conferenceLabel": "MICRO",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-设计-ISSCC",
+    "ruBu": "海思",
+    "domain": "半导体",
+    "subTrack": "设计",
+    "conferenceLabel": "ISSCC",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-封装-ECTC",
+    "ruBu": "海思",
+    "domain": "半导体",
+    "subTrack": "封装",
+    "conferenceLabel": "ECTC",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-器件-IEDM",
+    "ruBu": "海思",
+    "domain": "半导体",
+    "subTrack": "器件",
+    "conferenceLabel": "IEDM",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-散热-Itherm",
+    "ruBu": "海思",
+    "domain": "硬件工程",
+    "subTrack": "散热",
+    "conferenceLabel": "Itherm",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-42-海思-电力电子-PwRSoC_2027_",
+    "ruBu": "海思",
+    "domain": "硬件工程",
+    "subTrack": "电力电子",
+    "conferenceLabel": "PwRSoC（2027）",
+    "sourceRow": 42
+  },
+  {
+    "seedId": "seed-43-海思-体系架构-ASPLOS",
+    "ruBu": "海思",
+    "domain": "计算",
+    "subTrack": "体系架构",
+    "conferenceLabel": "ASPLOS",
+    "sourceRow": 43
+  },
+  {
+    "seedId": "seed-43-海思-光-ECOC",
+    "ruBu": "海思",
+    "domain": "联接",
+    "subTrack": "光",
+    "conferenceLabel": "ECOC",
+    "sourceRow": 43
+  },
+  {
+    "seedId": "seed-43-海思-设计-VLSI",
+    "ruBu": "海思",
+    "domain": "半导体",
+    "subTrack": "设计",
+    "conferenceLabel": "VLSI",
+    "sourceRow": 43
+  },
+  {
+    "seedId": "seed-43-海思-器件-IMW",
+    "ruBu": "海思",
+    "domain": "半导体",
+    "subTrack": "器件",
+    "conferenceLabel": "IMW",
+    "sourceRow": 43
+  },
+  {
+    "seedId": "seed-43-海思-散热-Themilink",
+    "ruBu": "海思",
+    "domain": "硬件工程",
+    "subTrack": "散热",
+    "conferenceLabel": "Themilink",
+    "sourceRow": 43
+  },
+  {
+    "seedId": "seed-44-海思-设计-HotChips",
+    "ruBu": "海思",
+    "domain": "半导体",
+    "subTrack": "设计",
+    "conferenceLabel": "Hot Chips",
+    "sourceRow": 44
+  }
+]
