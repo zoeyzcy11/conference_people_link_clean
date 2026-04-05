@@ -1,0 +1,762 @@
+{
+  "ASE": {
+    "conferenceName": "IEEE/ACM International Conference on Automated Software Engineering",
+    "officialUrl": "https://conf.researchr.org/home/ase-2026",
+    "location": "德国，慕尼黑",
+    "city": "慕尼黑",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-10-12",
+      "conferenceEnd": "2026-10-16"
+    }
+  },
+  "ASPLOS": {
+    "conferenceName": "ACM International Conference on Architectural Support for Programming Languages and Operating Systems",
+    "officialUrl": "https://www.asplos-conference.org/asplos2026/",
+    "location": "美国，匹兹堡",
+    "city": "匹兹堡",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-03-22",
+      "conferenceEnd": "2026-03-26"
+    }
+  },
+  "ATC": {
+    "conferenceName": "USENIX Annual Technical Conference",
+    "officialUrl": "https://www.usenix.org/conference/atc26",
+    "location": "待官网公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "CAIS": {
+    "conferenceName": "China Conference on AI and Software Engineering",
+    "officialUrl": "https://ccf.org.cn/CAIS",
+    "location": "待官网公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "CGO": {
+    "conferenceName": "IEEE/ACM International Symposium on Code Generation and Optimization",
+    "officialUrl": "https://conf.researchr.org/home/cgo-2026",
+    "location": "澳大利亚，悉尼",
+    "city": "悉尼",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-01-31",
+      "conferenceEnd": "2026-02-04"
+    }
+  },
+  "CHI": {
+    "conferenceName": "ACM Conference on Human Factors in Computing Systems",
+    "officialUrl": "https://chi2026.acm.org/attendees/local-info/",
+    "location": "西班牙，巴塞罗那",
+    "city": "巴塞罗那",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-04-13",
+      "conferenceEnd": "2026-04-17"
+    }
+  },
+  "ChinaSoft": {
+    "conferenceName": "China National Software Conference",
+    "officialUrl": "https://chinasoft.ccf.org.cn/2026/",
+    "location": "中国，天津",
+    "city": "天津",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "shortName": "ChinaSoft"
+  },
+  "CNCC": {
+    "conferenceName": "中国计算机大会",
+    "officialUrl": "https://cncc.ccf.org.cn",
+    "location": "中国，待公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "CVPR": {
+    "conferenceName": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "officialUrl": "https://cvpr.thecvf.com/Conferences/2026/Dates",
+    "location": "美国，丹佛",
+    "city": "丹佛",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2025-11-13",
+      "notification": "2026-02-20",
+      "conferenceStart": "2026-06-03",
+      "conferenceEnd": "2026-06-07"
+    }
+  },
+  "ECCV": {
+    "conferenceName": "European Conference on Computer Vision",
+    "officialUrl": "https://eccv.ecva.net/Conferences/2026/Dates",
+    "location": "瑞典，马尔默",
+    "city": "马尔默",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2026-03-05",
+      "notification": "2026-06-17",
+      "conferenceStart": "2026-09-08",
+      "conferenceEnd": "2026-09-13"
+    }
+  },
+  "ECOC": {
+    "conferenceName": "European Conference on Optical Communication",
+    "officialUrl": "https://ecoc2026.org/ecoc2026/call-special-symposia",
+    "location": "西班牙，马拉加",
+    "city": "马拉加",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-09-20",
+      "conferenceEnd": "2026-09-24"
+    }
+  },
+  "ECTC": {
+    "conferenceName": "Electronic Components and Technology Conference",
+    "officialUrl": "https://ectc.net/location/index.cfm",
+    "location": "美国，奥兰多",
+    "city": "奥兰多",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-26",
+      "conferenceEnd": "2026-05-29"
+    }
+  },
+  "ESC": {
+    "conferenceName": "Embedded Systems Conference",
+    "officialUrl": "https://www.embedded.com",
+    "location": "待官网公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "ESH": {
+    "conferenceName": "European Society of Hypertension Annual Meeting",
+    "officialUrl": "https://eshannualmeetings.eu/",
+    "location": "波兰，格但斯克",
+    "city": "格但斯克",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-28",
+      "conferenceEnd": "2026-05-31"
+    },
+    "shortName": "ESH"
+  },
+  "EuroSys": {
+    "conferenceName": "EuroSys Conference",
+    "officialUrl": "https://2026.eurosys.org/",
+    "location": "英国，爱丁堡",
+    "city": "爱丁堡",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-04-27",
+      "conferenceEnd": "2026-04-30"
+    }
+  },
+  "FAST": {
+    "conferenceName": "USENIX Conference on File and Storage Technologies",
+    "officialUrl": "https://www.usenix.org/conference/fast26",
+    "location": "美国，圣克拉拉",
+    "city": "圣克拉拉",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2025-09-16",
+      "notification": "2025-12-08",
+      "conferenceStart": "2026-02-24",
+      "conferenceEnd": "2026-02-26"
+    }
+  },
+  "Hot Chips": {
+    "conferenceName": "Hot Chips Symposium",
+    "officialUrl": "https://hotchips.org/",
+    "location": "美国，帕洛阿尔托",
+    "city": "帕洛阿尔托",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-08-23",
+      "conferenceEnd": "2026-08-25"
+    }
+  },
+  "HPC China": {
+    "conferenceName": "HPC China",
+    "officialUrl": "https://hpcchina.org",
+    "location": "中国，待公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "HPC CHINA": {
+    "conferenceName": "HPC China",
+    "officialUrl": "https://hpcchina.org",
+    "location": "中国，待公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "HPCA FAST": {
+    "conferenceName": "HPCA / FAST 联合条目（待拆分）",
+    "officialUrl": "",
+    "location": "待补充",
+    "city": "待补充",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "ICC": {
+    "conferenceName": "IEEE International Conference on Communications",
+    "officialUrl": "https://icc2026.ieee-icc.org/",
+    "location": "英国，格拉斯哥",
+    "city": "格拉斯哥",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-24",
+      "conferenceEnd": "2026-05-28"
+    }
+  },
+  "ICDE": {
+    "conferenceName": "IEEE International Conference on Data Engineering",
+    "officialUrl": "https://icde2026.github.io",
+    "location": "待官网公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "ICLR": {
+    "conferenceName": "International Conference on Learning Representations",
+    "officialUrl": "https://iclr.cc/Conferences/2026",
+    "location": "巴西，里约热内卢",
+    "city": "里约热内卢",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2025-09-24",
+      "notification": "2026-01-25",
+      "conferenceStart": "2026-04-23",
+      "conferenceEnd": "2026-04-27"
+    }
+  },
+  "ICML": {
+    "conferenceName": "International Conference on Machine Learning",
+    "officialUrl": "https://icml.cc",
+    "location": "韩国，首尔",
+    "city": "首尔",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2026-01-28",
+      "notification": "2026-04-30",
+      "conferenceStart": "2026-07-06",
+      "conferenceEnd": "2026-07-11"
+    }
+  },
+  "ICSE": {
+    "conferenceName": "International Conference on Software Engineering",
+    "officialUrl": "https://conf.researchr.org/dates/icse-2026",
+    "location": "巴西，里约热内卢",
+    "city": "里约热内卢",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-04-12",
+      "conferenceEnd": "2026-04-18"
+    }
+  },
+  "IEDM": {
+    "conferenceName": "IEEE International Electron Devices Meeting",
+    "officialUrl": "https://www.ieee-iedm.org/",
+    "location": "美国，旧金山",
+    "city": "旧金山",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-12-12",
+      "conferenceEnd": "2026-12-16"
+    }
+  },
+  "IMW": {
+    "conferenceName": "International Memory Workshop",
+    "officialUrl": "https://ewh.ieee.org/soc/eds/imw/index.htm",
+    "location": "比利时，鲁汶",
+    "city": "鲁汶",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-10",
+      "conferenceEnd": "2026-05-13"
+    }
+  },
+  "ISCA": {
+    "conferenceName": "International Symposium on Computer Architecture",
+    "officialUrl": "https://iscaconf.org/isca2026/",
+    "location": "美国，罗利",
+    "city": "罗利",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-06-27",
+      "conferenceEnd": "2026-07-01"
+    }
+  },
+  "ISIT": {
+    "conferenceName": "IEEE International Symposium on Information Theory",
+    "officialUrl": "https://2026.ieee-isit.org/",
+    "location": "中国，广州",
+    "city": "广州",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-06-28",
+      "conferenceEnd": "2026-07-03"
+    }
+  },
+  "ISSCC": {
+    "conferenceName": "IEEE International Solid-State Circuits Conference",
+    "officialUrl": "https://www.isscc.org/",
+    "location": "美国，旧金山",
+    "city": "旧金山",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-02-15",
+      "conferenceEnd": "2026-02-19"
+    }
+  },
+  "Itherm": {
+    "conferenceName": "IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems",
+    "officialUrl": "https://www.ieee-itherm.net",
+    "location": "美国，奥兰多",
+    "city": "奥兰多",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-26",
+      "conferenceEnd": "2026-05-29"
+    },
+    "shortName": "iTherm"
+  },
+  "MICRO": {
+    "conferenceName": "IEEE/ACM International Symposium on Microarchitecture",
+    "officialUrl": "https://microarch.org/micro59/",
+    "location": "希腊，雅典",
+    "city": "雅典",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-10-31",
+      "conferenceEnd": "2026-11-04"
+    }
+  },
+  "MlSys": {
+    "conferenceName": "Conference on Machine Learning and Systems",
+    "officialUrl": "https://mlsys.org/Conferences/2026/Dates",
+    "location": "美国，贝尔维尤",
+    "city": "贝尔维尤",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-18",
+      "conferenceEnd": "2026-05-22"
+    }
+  },
+  "MLSys": {
+    "conferenceName": "Conference on Machine Learning and Systems",
+    "officialUrl": "https://mlsys.org/Conferences/2026/Dates",
+    "location": "美国，贝尔维尤",
+    "city": "贝尔维尤",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-18",
+      "conferenceEnd": "2026-05-22"
+    }
+  },
+  "NIPS": {
+    "conferenceName": "Neural Information Processing Systems",
+    "officialUrl": "https://neurips.cc/Conferences/2026",
+    "location": "澳大利亚，悉尼",
+    "city": "悉尼",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2026-05-06",
+      "notification": "2026-09-24",
+      "conferenceStart": "2026-12-06",
+      "conferenceEnd": "2026-12-12"
+    }
+  },
+  "NSDI": {
+    "conferenceName": "USENIX Symposium on Networked Systems Design and Implementation",
+    "officialUrl": "https://www.usenix.org/conference/nsdi26",
+    "location": "美国，伦顿",
+    "city": "伦顿",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2025-09-18",
+      "notification": "2025-12-09",
+      "conferenceStart": "2026-05-04",
+      "conferenceEnd": "2026-05-06"
+    }
+  },
+  "OFC": {
+    "conferenceName": "Optical Fiber Communication Conference",
+    "officialUrl": "https://www.ofcconference.org/news-media/news-releases/2026/ofc-2026-plenary-speakers",
+    "location": "美国，洛杉矶",
+    "city": "洛杉矶",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-03-15",
+      "conferenceEnd": "2026-03-19"
+    }
+  },
+  "OOSPLA": {
+    "conferenceName": "ACM SIGPLAN OOPSLA",
+    "officialUrl": "https://2026.splashcon.org/track/oopsla-2026",
+    "location": "美国，奥克兰",
+    "city": "奥克兰",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-10-03",
+      "conferenceEnd": "2026-10-09"
+    }
+  },
+  "OSDI": {
+    "conferenceName": "USENIX Symposium on Operating Systems Design and Implementation",
+    "officialUrl": "https://www.usenix.org/conference/osdi26",
+    "location": "美国，西雅图",
+    "city": "西雅图",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2025-12-11",
+      "notification": "",
+      "conferenceStart": "2026-07-13",
+      "conferenceEnd": "2026-07-15"
+    }
+  },
+  "PwRSoC（2027）": {
+    "conferenceName": "Powering and Rethinking SoC Conference",
+    "officialUrl": "",
+    "location": "待补充",
+    "city": "待补充",
+    "year": 2027,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "RecSys": {
+    "conferenceName": "ACM Conference on Recommender Systems",
+    "officialUrl": "https://recsys.acm.org/recsys26/",
+    "location": "美国，明尼阿波利斯",
+    "city": "明尼阿波利斯",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-09-28",
+      "conferenceEnd": "2026-10-02"
+    }
+  },
+  "SC": {
+    "conferenceName": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+    "officialUrl": "https://sc26.supercomputing.org/",
+    "location": "美国，芝加哥",
+    "city": "芝加哥",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-11-15",
+      "conferenceEnd": "2026-11-20"
+    }
+  },
+  "SC FAST": {
+    "conferenceName": "SC / FAST 联合条目（待拆分）",
+    "officialUrl": "",
+    "location": "待补充",
+    "city": "待补充",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "SigComm": {
+    "conferenceName": "ACM SIGCOMM",
+    "officialUrl": "https://conferences.sigcomm.org/sigcomm/2026/",
+    "location": "美国，丹佛",
+    "city": "丹佛",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2026-02-06",
+      "notification": "",
+      "conferenceStart": "2026-08-17",
+      "conferenceEnd": "2026-08-21"
+    }
+  },
+  "Siggraph": {
+    "conferenceName": "ACM SIGGRAPH",
+    "officialUrl": "https://s2026.siggraph.org/program/panels/",
+    "location": "美国，洛杉矶",
+    "city": "洛杉矶",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "2026-02-10",
+      "notification": "",
+      "conferenceStart": "2026-07-19",
+      "conferenceEnd": "2026-07-23"
+    }
+  },
+  "SIGMOD": {
+    "conferenceName": "ACM SIGMOD/PODS International Conference on Management of Data",
+    "officialUrl": "https://2026.sigmod.org/",
+    "location": "印度，班加罗尔",
+    "city": "班加罗尔",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-31",
+      "conferenceEnd": "2026-06-05"
+    }
+  },
+  "SOSP": {
+    "conferenceName": "ACM Symposium on Operating Systems Principles",
+    "officialUrl": "https://sosp.org",
+    "location": "待官网公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "Themilink": {
+    "conferenceName": "ThemiLink Thermal Management Conference",
+    "officialUrl": "",
+    "location": "待补充",
+    "city": "待补充",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "shortName": "ThemiLink"
+  },
+  "Therminic": {
+    "conferenceName": "THERMINIC Workshop",
+    "officialUrl": "https://therminic.eu/",
+    "location": "德国，柏林",
+    "city": "柏林",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-09-16",
+      "conferenceEnd": "2026-09-18"
+    }
+  },
+  "VALSE": {
+    "conferenceName": "Vision And Learning SEminar",
+    "officialUrl": "https://valser.org/2026/#/",
+    "location": "中国，武汉",
+    "city": "武汉",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-05-08",
+      "conferenceEnd": "2026-05-10"
+    }
+  },
+  "VLDB": {
+    "conferenceName": "International Conference on Very Large Data Bases",
+    "officialUrl": "https://vldb.org/2026/",
+    "location": "美国，波士顿",
+    "city": "波士顿",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-08-31",
+      "conferenceEnd": "2026-09-04"
+    }
+  },
+  "VLSI": {
+    "conferenceName": "Symposium on VLSI Technology and Circuits",
+    "officialUrl": "https://www.vlsisymposium.org/",
+    "location": "美国，檀香山",
+    "city": "檀香山",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "2026-06-14",
+      "conferenceEnd": "2026-06-18"
+    }
+  },
+  "会年会": {
+    "conferenceName": "中国通信学会年会",
+    "shortName": "通信学会年会",
+    "officialUrl": "https://www.china-cic.cn",
+    "location": "中国，待公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "存储大会": {
+    "conferenceName": "全国存储技术大会",
+    "officialUrl": "",
+    "location": "待补充",
+    "city": "待补充",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "微波周": {
+    "conferenceName": "IEEE Microwave Week",
+    "officialUrl": "https://www.microwaveweek.org",
+    "location": "待官网公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "电子学": {
+    "conferenceName": "中国电子学会年会",
+    "shortName": "电子学会年会",
+    "officialUrl": "https://www.cie.org.cn",
+    "location": "中国，待公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "网络大会": {
+    "conferenceName": "中国网络相关大会",
+    "officialUrl": "https://www.ccf.org.cn",
+    "location": "中国，待公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  },
+  "通信学": {
+    "conferenceName": "中国通信学术会议",
+    "officialUrl": "https://www.china-cic.cn",
+    "location": "中国，待公布",
+    "city": "待公布",
+    "year": 2026,
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    }
+  }
+}
