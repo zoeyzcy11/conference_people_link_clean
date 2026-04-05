@@ -1,0 +1,82 @@
+[
+  {
+    "seedId": "seed-4-终端-cv-cvpr",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "CVPR",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-综合-iclr",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-图形图像-siggraph",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceLabel": "Siggraph",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-4-终端-推荐搜索-recsys",
+    "ruBu": "终端",
+    "domain": "AI",
+    "subTrack": "推荐搜索",
+    "conferenceLabel": "RecSys",
+    "sourceRow": 4
+  },
+  {
+    "seedId": "seed-8-计算-cv-cvpr",
+    "ruBu": "计算",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "CVPR",
+    "sourceRow": 8
+  },
+  {
+    "seedId": "seed-8-计算-综合-iclr",
+    "ruBu": "计算",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 8
+  },
+  {
+    "seedId": "seed-8-计算-综合-icml",
+    "ruBu": "计算",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICML",
+    "sourceRow": 9
+  },
+  {
+    "seedId": "seed-8-计算-综合-nips",
+    "ruBu": "计算",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "NIPS",
+    "sourceRow": 10
+  },
+  {
+    "seedId": "seed-22-中研-cv-cvpr",
+    "ruBu": "中研",
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceLabel": "CVPR",
+    "sourceRow": 22
+  },
+  {
+    "seedId": "seed-22-中研-综合-iclr",
+    "ruBu": "中研",
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceLabel": "ICLR",
+    "sourceRow": 22
+  }
+]
