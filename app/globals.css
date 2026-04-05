@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-mist text-ink antialiased;
+  background-image:
+    radial-gradient(circle at top left, rgba(25, 64, 87, 0.08), transparent 22%),
+    radial-gradient(circle at right top, rgba(76, 116, 100, 0.08), transparent 18%);
+}
+
+a {
+  @apply text-inherit no-underline;
+}
+
+pre {
+  white-space: pre-wrap;
+}
