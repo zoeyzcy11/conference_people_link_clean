@@ -1,0 +1,26 @@
+{
+  "CVPR": {
+    "official_url": "https://cvpr.thecvf.com",
+    "committee_source": "https://cvpr.thecvf.com/Conferences/2026/Organizers",
+    "workshop_source": "https://cvpr.thecvf.com/Conferences/2026/Workshops",
+    "person_link_source": "https://scholar.google.com"
+  },
+  "ICLR": {
+    "official_url": "https://iclr.cc",
+    "committee_source": "https://openreview.net/group?id=ICLR.cc/2026/Conference",
+    "workshop_source": "https://openreview.net/group?id=ICLR.cc/2026/Workshop",
+    "person_link_source": "https://www.linkedin.com"
+  },
+  "ICML": {
+    "official_url": "https://icml.cc",
+    "committee_source": "https://icml.cc/Conferences/2026/OrganizingCommittee",
+    "workshop_source": "https://icml.cc/Conferences/2026/Workshops",
+    "person_link_source": "https://scholar.google.com"
+  },
+  "NIPS": {
+    "official_url": "https://neurips.cc",
+    "committee_source": "https://neurips.cc/Conferences/2026/Organizers",
+    "workshop_source": "https://neurips.cc/Conferences/2026/CallForWorkshops",
+    "person_link_source": "https://www.linkedin.com"
+  }
+}
