@@ -1,0 +1,52 @@
+{
+  "name": "conference-kb-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "normalize:csv": "node scripts/normalize-conference-table.mjs",
+    "enrich:profiles": "node scripts/enrich-conference-profiles.mjs",
+    "build:profiles": "node scripts/build-conferences-from-seeds.mjs",
+    "validate:data": "node scripts/validate-conferences.mjs",
+    "crawl:iclr2026:sources": "node scripts/crawl-iclr2026-sources.mjs",
+    "crawl:iclr2026:extract": "node scripts/crawl-iclr2026-extract.mjs",
+    "enrich:iclr2026:links": "node scripts/enrich-iclr2026-links.mjs",
+    "publish:iclr2026": "node scripts/publish-iclr2026.mjs",
+    "scrape:iclr2026": "npm run crawl:iclr2026:sources && npm run crawl:iclr2026:extract && npm run enrich:iclr2026:links && npm run publish:iclr2026",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.2",
+    "@tanstack/react-table": "^8.20.5",
+    "@tanstack/react-virtual": "^3.10.8",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.468.0",
+    "next": "^15.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "swr": "^2.3.3",
+    "tailwind-merge": "^2.5.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.16.0",
+    "eslint-config-next": "^15.1.2",
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.10",
+    "postcss": "^8.4.49",
+    "prettier": "^3.4.2",
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5.7.2"
+  },
+  "lint-staged": {
+    "*.{ts,tsx,js,jsx,json,md,css}": [
+      "prettier --write"
+    ]
+  }
+}
