@@ -1,0 +1,260 @@
+[
+  {
+    "domain": "AI",
+    "subTrack": "计算机视觉",
+    "conferenceId": "CVPR2026",
+    "conferenceName": "IEEE/CVF 计算机视觉与模式识别会议",
+    "shortName": "CVPR 2026",
+    "year": 2026,
+    "location": "美国·西雅图",
+    "city": "西雅图",
+    "url": "https://cvpr.thecvf.com",
+    "dates": {
+      "paperDeadline": "2025-11-14",
+      "notification": "2026-02-28",
+      "conferenceStart": "2026-06-17",
+      "conferenceEnd": "2026-06-21"
+    },
+    "ruBus": ["终端", "计算", "中研", "中媒"],
+    "seedIds": [
+      "seed-4-终端-cv-cvpr",
+      "seed-8-计算-cv-cvpr",
+      "seed-22-中研-cv-cvpr"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [
+          {
+            "personId": "p_06f4a53f",
+            "name": "Fei-Fei Li",
+            "title": "教授",
+            "affiliation": "Stanford University",
+            "linkedIn": "https://www.linkedin.com/in/fei-fei-li",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
+            "photo": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=500&q=80"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.89
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [
+          {
+            "personId": "p_94cfa03d",
+            "name": "Deva Ramanan",
+            "title": "教授",
+            "affiliation": "Carnegie Mellon University",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.81
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_39d99a89",
+            "name": "Angjoo Kanazawa",
+            "title": "助理教授",
+            "affiliation": "UC Berkeley",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          },
+          {
+            "personId": "p_53c5de37",
+            "name": "Ce Liu",
+            "title": "研究科学家",
+            "affiliation": "Microsoft Research",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=thecvf.com/CVPR/2026/Conference",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.76
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-3d-frontier",
+        "name": "三维视觉前沿",
+        "description": "关注 3D 感知、生成与场景理解的最新进展。",
+        "organizers": [
+          {
+            "personId": "p_85a7f1ce",
+            "name": "张三",
+            "title": "教授",
+            "affiliation": "清华大学",
+            "linkedIn": "https://linkedin.com/in/zhangsan",
+            "github": "https://github.com/zhangsan",
+            "gScholar": "https://scholar.google.com/citations?user=ZHANGSAN"
+          },
+          {
+            "personId": "p_5ceab68e",
+            "name": "李四",
+            "title": "副教授",
+            "affiliation": "北京大学",
+            "linkedIn": "https://linkedin.com/in/lisi",
+            "github": "https://github.com/lisi",
+            "gScholar": "https://scholar.google.com/citations?user=LISI"
+          }
+        ],
+        "url": "https://cvpr2026-workshop-3d.org",
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com/workshops",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.74
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "https://cvpr.thecvf.com",
+      "fetchedAt": "2026-04-02T00:00:00.000Z",
+      "confidence": 0.82
+    },
+    "status": "published"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceId": "ICLR2026",
+    "conferenceName": "International Conference on Learning Representations",
+    "shortName": "ICLR 2026",
+    "year": 2026,
+    "location": "奥地利·维也纳",
+    "city": "维也纳",
+    "url": "https://iclr.cc",
+    "dates": {
+      "paperDeadline": "2025-10-01",
+      "notification": "2026-01-21",
+      "conferenceStart": "2026-04-24",
+      "conferenceEnd": "2026-04-28"
+    },
+    "ruBus": ["终端", "计算", "华为云", "中研", "中软"],
+    "seedIds": [
+      "seed-4-终端-综合-iclr",
+      "seed-8-计算-综合-iclr",
+      "seed-22-中研-综合-iclr"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [
+          {
+            "personId": "p_21fcb834",
+            "name": "Yoshua Bengio",
+            "title": "教授",
+            "affiliation": "Universite de Montreal",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://iclr.cc",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.83
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [
+          {
+            "personId": "p_5f2c68d9",
+            "name": "Ari Morcos",
+            "title": "研究员",
+            "affiliation": "Anthropic",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          },
+          {
+            "personId": "p_5a8b31ea",
+            "name": "Sara Hooker",
+            "title": "研究负责人",
+            "affiliation": "Cohere Labs",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://iclr.cc/Conferences/2026/CallForPapers",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.8
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_8e8d9565",
+            "name": "Diyi Yang",
+            "title": "副教授",
+            "affiliation": "Stanford University",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=ICLR.cc/2026/Conference",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.77
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-agentic-ai",
+        "name": "Agentic AI for Science",
+        "description": "关注科学发现中的智能体系统与评测。",
+        "organizers": [
+          {
+            "personId": "p_6516570f",
+            "name": "Danai Koutra",
+            "title": "副教授",
+            "affiliation": "University of Michigan",
+            "linkedIn": "https://www.linkedin.com",
+            "github": "https://github.com",
+            "gScholar": "https://scholar.google.com"
+          }
+        ],
+        "url": "https://openreview.net/group?id=ICLR.cc/2026/Workshop",
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop",
+          "fetchedAt": "2026-04-02T00:00:00.000Z",
+          "confidence": 0.72
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "https://iclr.cc",
+      "fetchedAt": "2026-04-02T00:00:00.000Z",
+      "confidence": 0.79
+    },
+    "status": "review_pending"
+  }
+]
