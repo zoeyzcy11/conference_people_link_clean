@@ -1,0 +1,750 @@
+[
+  {
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceId": "CVPR2027",
+    "conferenceName": "CVPR",
+    "shortName": "CVPR2027",
+    "year": 2027,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "https://cvpr.thecvf.com",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "中研",
+      "中媒"
+    ],
+    "seedIds": [
+      "seed-4-终端-CV-CVPR",
+      "seed-7-IAS-CV-CVPR",
+      "seed-10-计算-CV-CVPR",
+      "seed-27-中研-CV-CVPR",
+      "seed-34-中媒-CV-CVPR"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com/Conferences/2026/Organizers",
+          "fetchedAt": "2026-04-02T07:37:14.807Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com/Conferences/2026/Organizers",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_bfeabe8a",
+            "name": "待抓取",
+            "title": "待补充",
+            "affiliation": "待补充",
+            "linkedIn": "",
+            "github": "",
+            "gScholar": ""
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com/Conferences/2026/Organizers",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-pending",
+        "name": "待抓取 Workshop",
+        "description": "自动抓取后替换",
+        "organizers": [],
+        "url": "https://cvpr.thecvf.com/Conferences/2026/Workshops",
+        "source": {
+          "sourceUrl": "https://cvpr.thecvf.com/Conferences/2026/Workshops",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "https://cvpr.thecvf.com",
+      "fetchedAt": "2026-04-02T07:37:14.808Z",
+      "confidence": 0.45
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceId": "ICLR2027",
+    "conferenceName": "ICLR",
+    "shortName": "ICLR2027",
+    "year": 2027,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "https://iclr.cc",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "华为云",
+      "中研",
+      "中软",
+      "中媒",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-4-终端-综合-ICLR",
+      "seed-7-IAS-综合-ICLR",
+      "seed-10-计算-综合-ICLR",
+      "seed-17-华为云-综合-ICLR",
+      "seed-27-中研-综合-ICLR",
+      "seed-30-中软-综合-ICLR",
+      "seed-34-中媒-综合-ICLR",
+      "seed-39-可信-综合-ICLR"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=ICLR.cc/2026/Conference",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=ICLR.cc/2026/Conference",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_f96c781a",
+            "name": "待抓取",
+            "title": "待补充",
+            "affiliation": "待补充",
+            "linkedIn": "",
+            "github": "",
+            "gScholar": ""
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=ICLR.cc/2026/Conference",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-pending",
+        "name": "待抓取 Workshop",
+        "description": "自动抓取后替换",
+        "organizers": [],
+        "url": "https://openreview.net/group?id=ICLR.cc/2026/Workshop",
+        "source": {
+          "sourceUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "https://iclr.cc",
+      "fetchedAt": "2026-04-02T07:37:14.808Z",
+      "confidence": 0.45
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceId": "Siggraph2027",
+    "conferenceName": "Siggraph",
+    "shortName": "Siggraph2027",
+    "year": 2027,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "中媒",
+      "海思"
+    ],
+    "seedIds": [
+      "seed-4-终端-图形图像-Siggraph",
+      "seed-34-中媒-图形图像-Siggraph",
+      "seed-42-海思-图形图像-Siggraph"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_89b68f53",
+            "name": "待抓取",
+            "title": "待补充",
+            "affiliation": "待补充",
+            "linkedIn": "",
+            "github": "",
+            "gScholar": ""
+          }
+        ],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-pending",
+        "name": "待抓取 Workshop",
+        "description": "自动抓取后替换",
+        "organizers": [],
+        "url": "",
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "",
+      "fetchedAt": "2026-04-02T07:37:14.808Z",
+      "confidence": 0.2
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "推荐搜索",
+    "conferenceId": "RecSys2027",
+    "conferenceName": "RecSys",
+    "shortName": "RecSys2027",
+    "year": 2027,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "中研"
+    ],
+    "seedIds": [
+      "seed-4-终端-推荐搜索-RecSys",
+      "seed-27-中研-推荐搜索-RecSys"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_26238521",
+            "name": "待抓取",
+            "title": "待补充",
+            "affiliation": "待补充",
+            "linkedIn": "",
+            "github": "",
+            "gScholar": ""
+          }
+        ],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-pending",
+        "name": "待抓取 Workshop",
+        "description": "自动抓取后替换",
+        "organizers": [],
+        "url": "",
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "",
+      "fetchedAt": "2026-04-02T07:37:14.808Z",
+      "confidence": 0.2
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "CV",
+    "conferenceId": "ECCV2027",
+    "conferenceName": "ECCV",
+    "shortName": "ECCV2027",
+    "year": 2027,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "中研",
+      "中媒"
+    ],
+    "seedIds": [
+      "seed-5-终端-CV-ECCV",
+      "seed-8-IAS-CV-ECCV",
+      "seed-11-计算-CV-ECCV",
+      "seed-28-中研-CV-ECCV",
+      "seed-35-中媒-CV-ECCV"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_2ee370cf",
+            "name": "待抓取",
+            "title": "待补充",
+            "affiliation": "待补充",
+            "linkedIn": "",
+            "github": "",
+            "gScholar": ""
+          }
+        ],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-pending",
+        "name": "待抓取 Workshop",
+        "description": "自动抓取后替换",
+        "organizers": [],
+        "url": "",
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "",
+      "fetchedAt": "2026-04-02T07:37:14.808Z",
+      "confidence": 0.2
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceId": "ICML2027",
+    "conferenceName": "ICML",
+    "shortName": "ICML2027",
+    "year": 2027,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "https://icml.cc",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "华为云",
+      "中研",
+      "中软",
+      "中媒",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-5-终端-综合-ICML",
+      "seed-8-IAS-综合-ICML",
+      "seed-11-计算-综合-ICML",
+      "seed-18-华为云-综合-ICML",
+      "seed-28-中研-综合-ICML",
+      "seed-31-中软-综合-ICML",
+      "seed-35-中媒-综合-ICML",
+      "seed-40-可信-综合-ICML"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icml.cc/Conferences/2026/OrganizingCommittee",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://icml.cc/Conferences/2026/OrganizingCommittee",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_d67f0f2a",
+            "name": "待抓取",
+            "title": "待补充",
+            "affiliation": "待补充",
+            "linkedIn": "",
+            "github": "",
+            "gScholar": ""
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://icml.cc/Conferences/2026/OrganizingCommittee",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-pending",
+        "name": "待抓取 Workshop",
+        "description": "自动抓取后替换",
+        "organizers": [],
+        "url": "https://icml.cc/Conferences/2026/Workshops",
+        "source": {
+          "sourceUrl": "https://icml.cc/Conferences/2026/Workshops",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "https://icml.cc",
+      "fetchedAt": "2026-04-02T07:37:14.808Z",
+      "confidence": 0.45
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "图形图像",
+    "conferenceId": "VALSE2027",
+    "conferenceName": "VALSE",
+    "shortName": "VALSE2027",
+    "year": 2027,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "中媒"
+    ],
+    "seedIds": [
+      "seed-5-终端-图形图像-VALSE",
+      "seed-7-IAS-图形图像-VALSE",
+      "seed-35-中媒-图形图像-VALSE"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_1f04416d",
+            "name": "待抓取",
+            "title": "待补充",
+            "affiliation": "待补充",
+            "linkedIn": "",
+            "github": "",
+            "gScholar": ""
+          }
+        ],
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-pending",
+        "name": "待抓取 Workshop",
+        "description": "自动抓取后替换",
+        "organizers": [],
+        "url": "",
+        "source": {
+          "sourceUrl": "",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "",
+      "fetchedAt": "2026-04-02T07:37:14.808Z",
+      "confidence": 0.2
+    },
+    "status": "review_pending"
+  },
+  {
+    "domain": "AI",
+    "subTrack": "综合",
+    "conferenceId": "NIPS2027",
+    "conferenceName": "NIPS",
+    "shortName": "NIPS2027",
+    "year": 2027,
+    "location": "待补充",
+    "city": "待补充",
+    "url": "https://neurips.cc",
+    "dates": {
+      "paperDeadline": "",
+      "notification": "",
+      "conferenceStart": "",
+      "conferenceEnd": ""
+    },
+    "ruBus": [
+      "终端",
+      "IAS",
+      "计算",
+      "华为云",
+      "中研",
+      "中软",
+      "中媒",
+      "可信"
+    ],
+    "seedIds": [
+      "seed-6-终端-综合-NIPS",
+      "seed-9-IAS-综合-NIPS",
+      "seed-12-计算-综合-NIPS",
+      "seed-19-华为云-综合-NIPS",
+      "seed-29-中研-综合-NIPS",
+      "seed-32-中软-综合-NIPS",
+      "seed-36-中媒-综合-NIPS",
+      "seed-41-可信-综合-NIPS"
+    ],
+    "committeeRoles": [
+      {
+        "roleKey": "generalChair",
+        "roleLabel": "大会主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://neurips.cc/Conferences/2026/Organizers",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "programCoChair",
+        "roleLabel": "程序共同主席",
+        "members": [],
+        "source": {
+          "sourceUrl": "https://neurips.cc/Conferences/2026/Organizers",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.3
+        }
+      },
+      {
+        "roleKey": "areaChairs",
+        "roleLabel": "PC Area Chairs",
+        "members": [
+          {
+            "personId": "p_e0a37644",
+            "name": "待抓取",
+            "title": "待补充",
+            "affiliation": "待补充",
+            "linkedIn": "",
+            "github": "",
+            "gScholar": ""
+          }
+        ],
+        "source": {
+          "sourceUrl": "https://neurips.cc/Conferences/2026/Organizers",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "workshops": [
+      {
+        "workshopId": "ws-pending",
+        "name": "待抓取 Workshop",
+        "description": "自动抓取后替换",
+        "organizers": [],
+        "url": "https://neurips.cc/Conferences/2026/CallForWorkshops",
+        "source": {
+          "sourceUrl": "https://neurips.cc/Conferences/2026/CallForWorkshops",
+          "fetchedAt": "2026-04-02T07:37:14.808Z",
+          "confidence": 0.25
+        }
+      }
+    ],
+    "source": {
+      "sourceUrl": "https://neurips.cc",
+      "fetchedAt": "2026-04-02T07:37:14.808Z",
+      "confidence": 0.45
+    },
+    "status": "review_pending"
+  }
+]
