@@ -1,0 +1,190 @@
+{
+  "conferenceId": "ICLR2026",
+  "generatedAt": "2026-04-03T07:57:16.781Z",
+  "pages": {
+    "officialHome": "https://iclr.cc/Conferences/2026",
+    "committees": "https://iclr.cc/Conferences/2026/Committees",
+    "programCommittee": "https://iclr.cc/Conferences/2026/ProgramCommittee",
+    "openreviewWorkshopHub": "https://openreview.net/group?id=ICLR.cc/2026/Workshop"
+  },
+  "checks": {
+    "committeesFetched": true,
+    "programCommitteeFetched": true,
+    "workshopHubFetched": true,
+    "workshopCountDiscovered": 43
+  },
+  "workshopVenues": [
+    {
+      "title": "AFA",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/AFA"
+    },
+    {
+      "title": "AFAA",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/AFAA"
+    },
+    {
+      "title": "AI and PDE",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/AI_and_PDE"
+    },
+    {
+      "title": "AI4Mat",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/AI4Mat"
+    },
+    {
+      "title": "AI4Peace",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/AI4Peace"
+    },
+    {
+      "title": "AIMS",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/AIMS"
+    },
+    {
+      "title": "AIWILD",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/AIWILD"
+    },
+    {
+      "title": "CAO",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/CAO"
+    },
+    {
+      "title": "DATA-FM",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/DATA-FM"
+    },
+    {
+      "title": "DeLTa",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/DeLTa"
+    },
+    {
+      "title": "ES-Reasoning",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/ES-Reasoning"
+    },
+    {
+      "title": "FM4Science",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/FM4Science"
+    },
+    {
+      "title": "GEM",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/GEM"
+    },
+    {
+      "title": "Gen2",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/Gen2"
+    },
+    {
+      "title": "GRaM",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/GRaM"
+    },
+    {
+      "title": "HCAIR",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/HCAIR"
+    },
+    {
+      "title": "ICBINB",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/ICBINB"
+    },
+    {
+      "title": "LIT",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/LIT"
+    },
+    {
+      "title": "LLA",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/LLA"
+    },
+    {
+      "title": "LLM Reasoning",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/LLM_Reasoning"
+    },
+    {
+      "title": "LMRL",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/LMRL"
+    },
+    {
+      "title": "MALGAI",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/MALGAI"
+    },
+    {
+      "title": "MemAgent",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/MemAgent"
+    },
+    {
+      "title": "ML4RS Main Track",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Main_Track"
+    },
+    {
+      "title": "ML4RS Tiny Track",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tiny_Track"
+    },
+    {
+      "title": "ML4RS Tutorial Track",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/ML4RS_Tutorial_Track"
+    },
+    {
+      "title": "MLGenX",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/MLGenX"
+    },
+    {
+      "title": "MM Intelligence",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/MM_Intelligence"
+    },
+    {
+      "title": "NFAM",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/NFAM"
+    },
+    {
+      "title": "P-AGI",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/P-AGI"
+    },
+    {
+      "title": "Re-Align",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/Re-Align"
+    },
+    {
+      "title": "ReALM-GEN",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/ReALM-GEN"
+    },
+    {
+      "title": "Reliable Autonomy",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/Reliable_Autonomy"
+    },
+    {
+      "title": "RSI",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/RSI"
+    },
+    {
+      "title": "Sci4DL",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/Sci4DL"
+    },
+    {
+      "title": "SPOT",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/SPOT"
+    },
+    {
+      "title": "Trustworthy AI",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/Trustworthy_AI"
+    },
+    {
+      "title": "TSALM",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/TSALM"
+    },
+    {
+      "title": "TTU Main Track",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/TTU_Main_Track"
+    },
+    {
+      "title": "TTU Tiny Track",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/TTU_Tiny_Track"
+    },
+    {
+      "title": "UCRL",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/UCRL"
+    },
+    {
+      "title": "VerifAI-2",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/VerifAI-2"
+    },
+    {
+      "title": "World Models",
+      "openreviewVenueUrl": "https://openreview.net/group?id=ICLR.cc/2026/Workshop/World_Models"
+    }
+  ]
+}
