@@ -1,0 +1,206 @@
+{
+  "conferenceId": "ICLR2026",
+  "generatedAt": "2026-04-03T07:57:54.262Z",
+  "notes": "manual > auto. 可按 personId 或 name+role 覆盖。",
+  "removedPersonIds": [
+    "p_95ff2bb3b2"
+  ],
+  "overrides": [
+    {
+      "personId": "p_c4175ae208",
+      "patch": {
+        "photo": "https://www.cs.columbia.edu/~vondrick/img/photo-me.webp",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_4b4b1dab31",
+      "patch": {
+        "photo": "https://www.cs.cornell.edu/~bharathh/me-web.jpg",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_528e29fe8f",
+      "patch": {
+        "photo": "https://colinraffel.com/images/me.gif",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_c1517604f2",
+      "patch": {
+        "photo": "https://www.lerrelpinto.com/authors/admin/avatar_huc8388dc171e86880932174789f883845_636300_1000x1000_fill_q75_lanczos_center.jpg",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_d19c215876",
+      "patch": {
+        "photo": "https://jyzhao.net/img/jieyuz.jpeg",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_dd70167191",
+      "patch": {
+        "photo": "https://liuziyi219.github.io/portrait.jpg",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_9721be8dc8",
+      "patch": {
+        "photo": "https://github.com/dorazhao99.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_2810c6198a",
+      "patch": {
+        "photo": "https://github.com/Ninarehm.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_a9384b9a63",
+      "patch": {
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=j9jhYqQAAAAJ&citpid=1",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_d08784d38a",
+      "patch": {
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RK72t68AAAAJ&citpid=1",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_ab1201fb5c",
+      "patch": {
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FzR93M0AAAAJ&citpid=1",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_930e3647f7",
+      "patch": {
+        "photo": "https://github.com/yanansui.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_0df2feb97d",
+      "patch": {
+        "photo": "https://github.com/adjidieng.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_a6cbccfb06",
+      "patch": {
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5yYPHwYAAAAJ&citpid=1",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_7a68f2d975",
+      "patch": {
+        "photo": "https://github.com/andrefaraujo.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_ec5beaae78",
+      "patch": {
+        "photo": "https://github.com/da03.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_8004b8a340",
+      "patch": {
+        "photo": "https://github.com/shelhamer.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_24631e86cc",
+      "patch": {
+        "photo": "https://github.com/psc-g.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_b4becbbade",
+      "patch": {
+        "photo": "https://github.com/eringrant.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_55e45afc35",
+      "patch": {
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5CZ6nlYAAAAJ&citpid=1",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_8f37b6d152",
+      "patch": {
+        "photo": "https://github.com/n-gao.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_30df2c4e4f",
+      "patch": {
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PXT4k9cAAAAJ&citpid=1",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_8eb76c5656",
+      "patch": {
+        "photo": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9TQM9k4AAAAJ&citpid=1",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_3d202b8cf1",
+      "patch": {
+        "photo": "https://github.com/jonkhler.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_d9fab53c29",
+      "patch": {
+        "photo": "https://github.com/njbergam.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_afa87936b2",
+      "patch": {
+        "photo": "https://github.com/carloderamo.png",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_52be559dbe",
+      "patch": {
+        "photo": "https://unavatar.io/linkedin/tylerachang",
+        "source": "manual"
+      }
+    },
+    {
+      "personId": "p_2ed940bc31",
+      "patch": {
+        "photo": "https://unavatar.io/linkedin/zhenyu-sherry-xue",
+        "source": "manual"
+      }
+    }
+  ]
+}
