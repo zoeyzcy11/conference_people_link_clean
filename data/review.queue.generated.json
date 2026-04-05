@@ -1,0 +1,50 @@
+[
+  {
+    "conferenceId": "CVPR2027",
+    "reason": "自动富化结果需人工审核后发布",
+    "createdAt": "2026-04-02T07:37:14.808Z",
+    "status": "pending"
+  },
+  {
+    "conferenceId": "ICLR2027",
+    "reason": "自动富化结果需人工审核后发布",
+    "createdAt": "2026-04-02T07:37:14.808Z",
+    "status": "pending"
+  },
+  {
+    "conferenceId": "Siggraph2027",
+    "reason": "自动富化结果需人工审核后发布",
+    "createdAt": "2026-04-02T07:37:14.808Z",
+    "status": "pending"
+  },
+  {
+    "conferenceId": "RecSys2027",
+    "reason": "自动富化结果需人工审核后发布",
+    "createdAt": "2026-04-02T07:37:14.808Z",
+    "status": "pending"
+  },
+  {
+    "conferenceId": "ECCV2027",
+    "reason": "自动富化结果需人工审核后发布",
+    "createdAt": "2026-04-02T07:37:14.808Z",
+    "status": "pending"
+  },
+  {
+    "conferenceId": "ICML2027",
+    "reason": "自动富化结果需人工审核后发布",
+    "createdAt": "2026-04-02T07:37:14.808Z",
+    "status": "pending"
+  },
+  {
+    "conferenceId": "VALSE2027",
+    "reason": "自动富化结果需人工审核后发布",
+    "createdAt": "2026-04-02T07:37:14.808Z",
+    "status": "pending"
+  },
+  {
+    "conferenceId": "NIPS2027",
+    "reason": "自动富化结果需人工审核后发布",
+    "createdAt": "2026-04-02T07:37:14.808Z",
+    "status": "pending"
+  }
+]
