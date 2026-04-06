@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-04-06T15:29:08.203Z",
+  "conferenceId": "CVPR2026",
+  "sampleSize": 20,
+  "parsedRoles": 17,
+  "parsedPeopleTotal": 40,
+  "status": {},
+  "baseline": {
+    "method": "baseline",
+    "durationMs": 95394,
+    "total": 20,
+    "linkedIn": 12,
+    "github": 2,
+    "gScholar": 19,
+    "any": 19,
+    "anyCoverage": 0.95
+  },
+  "lessie": {
+    "method": "lessie",
+    "skipped": true,
+    "reason": "lessie_not_authorized",
+    "hint": "运行 lessie auth 完成登录后重试。"
+  }
+}
