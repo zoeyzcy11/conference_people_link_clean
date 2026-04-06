@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ConferenceTabs } from "@/components/ConferenceTabs";
 import { getConferenceById } from "@/lib/data";
+import { getConferenceLandingInfo } from "@/lib/conference-presenter";
 
 type Params = {
   params: Promise<{ id: string }>;
@@ -13,6 +14,7 @@ export default async function ConferenceDetailPage({ params }: Params) {
   if (!conference) {
     notFound();
   }
+  const landing = getConferenceLandingInfo(conference);
 
   return (
     <section>
@@ -24,22 +26,26 @@ export default async function ConferenceDetailPage({ params }: Params) {
           {conference.domain} / {conference.subTrack}
         </p>
         <h1 className="mt-2 font-display text-3xl font-semibold">{conference.conferenceName}</h1>
-        <p className="mt-3 text-slate-600">{conference.location} · {conference.year}</p>
-        {conference.dataQuality ? (
-          <div className="mt-3 inline-flex rounded-full border border-line bg-white px-3 py-1 text-xs text-slate-600">
-            数据质量: {conference.dataQuality.hasKnowledgePipeline ? "已验证流水线" : "基础数据"}
-          </div>
-        ) : null}
-        {conference.url ? (
-          <a href={conference.url} className="mt-2 inline-flex text-accent underline underline-offset-2" target="_blank" rel="noreferrer">
-            访问官方网站
-          </a>
-        ) : (
-          <p className="mt-2 text-sm text-slate-400">官网链接待补充</p>
-        )}
+        <p className="mt-3 text-slate-600">
+          {conference.location} · {conference.year}
+        </p>
+        <p className="mt-4 max-w-4xl text-[15px] leading-7 text-slate-700">{landing.summary}</p>
+        <div className="mt-4 flex flex-wrap gap-2">
+          {landing.resources.map((resource) => (
+            <a
+              key={resource.label}
+              href={resource.url}
+              className="inline-flex rounded-full border border-line bg-white px-4 py-1.5 text-sm text-slate-700 transition hover:border-accent hover:text-accent"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {resource.label}
+            </a>
+          ))}
+        </div>
       </header>
 
-      <ConferenceTabs conference={conference} />
+      <ConferenceTabs conference={conference} landing={landing} />
     </section>
   );
 }
