@@ -45,10 +45,10 @@ export function ConferenceTabs({ conference, landing }: Props) {
       </div>
 
       {activeTab === "overview" ? (
-        <div className="grid gap-5 lg:grid-cols-[1fr,340px]">
-          <article className="rounded-3xl border border-line bg-panel p-5 shadow-panel">
-            <h3 className="font-display text-2xl font-semibold">参会概览</h3>
-            <div className="mt-2 rounded-2xl border border-line bg-white p-4">
+        <div className="grid gap-5 lg:grid-cols-[1fr,360px]">
+          <article className="rounded-3xl border border-line bg-gradient-to-b from-[#fffaf3] to-[#fffdf9] p-5 shadow-panel lg:p-6">
+            <h3 className="font-display text-2xl font-semibold text-ink">参会概览</h3>
+            <div className="mt-3 rounded-2xl border border-[#d9d0c1] bg-white/95 p-4 lg:p-5">
               <p className="text-xs uppercase tracking-[0.16em] text-slate-500">{landing.introTitle}</p>
               <p className="mt-2 text-slate-700">{landing.summary}</p>
               {landing.introSourceUrl ? (
@@ -66,60 +66,56 @@ export function ConferenceTabs({ conference, landing }: Props) {
                 </div>
               ) : null}
             </div>
-            <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
-              <div className="rounded-2xl border border-line bg-white p-4">
-                <p className="text-xs uppercase tracking-[0.16em] text-slate-500">会议时间</p>
-                <p className="mt-1 font-semibold">{formatDateRangeShort(conference.dates.conferenceStart, conference.dates.conferenceEnd)}</p>
-              </div>
-              <div className="rounded-2xl border border-line bg-white p-4">
-                <p className="text-xs uppercase tracking-[0.16em] text-slate-500">地点</p>
-                <p className="mt-1 font-semibold">{conference.location}</p>
-              </div>
-              <div className="rounded-2xl border border-line bg-white p-4">
-                <p className="text-xs uppercase tracking-[0.16em] text-slate-500">会场</p>
-                <p className="mt-1 font-semibold">{landing.venue}</p>
-              </div>
-              <div className="rounded-2xl border border-line bg-white p-4">
-                <p className="text-xs uppercase tracking-[0.16em] text-slate-500">时区</p>
-                <p className="mt-1 font-semibold">{landing.timezone}</p>
-              </div>
+            <div className="mt-5 grid gap-3 md:grid-cols-2">
+              {[
+                ["会议时间", formatDateRangeShort(conference.dates.conferenceStart, conference.dates.conferenceEnd)],
+                ["地点", conference.location],
+                ["会场", landing.venue],
+                ["时区", landing.timezone]
+              ].map(([label, value]) => (
+                <div key={label} className="border-b border-dashed border-[#d6ccbc] py-3 first:pt-0 last:pb-0">
+                  <p className="text-xs uppercase tracking-[0.18em] text-slate-500">{label}</p>
+                  <p className="mt-1 text-lg font-semibold text-ink">{value}</p>
+                </div>
+              ))}
             </div>
 
-            <div className="mt-4 rounded-2xl border border-line bg-white p-4">
-              <p className="text-xs uppercase tracking-[0.16em] text-slate-500">参会资源入口</p>
-              <div className="mt-3 flex flex-wrap gap-2">
-                {landing.resources.map((resource) => (
-                  <a
-                    key={`overview-${resource.label}`}
-                    href={resource.url}
-                    className="inline-flex rounded-full border border-line px-3 py-1.5 text-sm text-slate-700 hover:border-accent hover:text-accent"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    {resource.label}
-                  </a>
-                ))}
+            <div className="mt-5 grid gap-3 md:grid-cols-[1.15fr,0.85fr]">
+              <div className="rounded-2xl border border-[#d9d0c1] bg-white p-4">
+                <p className="text-xs uppercase tracking-[0.16em] text-slate-500">参会资源入口</p>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {landing.resources.map((resource) => (
+                    <a
+                      key={`overview-${resource.label}`}
+                      href={resource.url}
+                      className="inline-flex rounded-full border border-line px-3 py-1.5 text-sm text-slate-700 hover:border-accent hover:text-accent"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      {resource.label}
+                    </a>
+                  ))}
+                </div>
               </div>
-            </div>
-
-            <div className="mt-4 rounded-2xl border border-line bg-white p-4">
-              <p className="text-xs uppercase tracking-[0.16em] text-slate-500">重点方向</p>
-              <div className="mt-3 flex flex-wrap gap-2">
-                {landing.keywords.map((keyword) => (
-                  <span key={keyword} className="rounded-full border border-line px-3 py-1 text-sm text-slate-600">
-                    {keyword}
-                  </span>
-                ))}
+              <div className="rounded-2xl border border-[#d9d0c1] bg-white p-4">
+                <p className="text-xs uppercase tracking-[0.16em] text-slate-500">重点方向</p>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {landing.keywords.map((keyword) => (
+                    <span key={keyword} className="rounded-full border border-line px-3 py-1 text-sm text-slate-600">
+                      {keyword}
+                    </span>
+                  ))}
+                </div>
               </div>
             </div>
           </article>
 
           <article className="rounded-3xl border border-line bg-panel p-5 shadow-panel">
             <h3 className="font-display text-xl font-semibold">关键时间轴</h3>
-            <div className="mt-4">
+            <div className="mt-4 rounded-2xl bg-white/80 p-4">
               <Timeline dates={conference.dates} />
             </div>
-            <div className="mt-6 rounded-2xl border border-line bg-white p-4">
+            <div className="mt-5 rounded-2xl border border-[#d8cfbf] bg-white p-4">
               <p className="text-xs uppercase tracking-[0.16em] text-slate-500">本届规模</p>
               <p className="mt-2 text-sm text-slate-700">
                 组委会（不含 Reviewer）：{committeePeople} 人
