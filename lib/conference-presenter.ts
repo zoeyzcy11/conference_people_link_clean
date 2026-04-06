@@ -1,7 +1,12 @@
 import { ConferenceProfile } from "@/lib/types";
 
 export type ConferenceLandingInfo = {
+  introType: "official" | "template";
+  introTitle: string;
   summary: string;
+  introSourceLabel?: string;
+  introSourceUrl?: string;
+  introUpdatedAt?: string;
   venue: string;
   timezone: string;
   keywords: string[];
@@ -13,8 +18,12 @@ export type ConferenceLandingInfo = {
 
 const landingOverrides: Record<string, Partial<ConferenceLandingInfo>> = {
   ICLR2026: {
+    introType: "official",
+    introTitle: "官网简介（整理版）",
     summary:
-      "ICLR 是机器学习与表征学习领域的顶级国际会议，聚焦深度学习、生成模型、优化与可信 AI 等方向。本页用于快速导航参会所需资源与组织信息。",
+      "根据 ICLR 官方介绍，会议长期聚焦表征学习及其相关机器学习前沿议题，覆盖深度学习、生成建模、优化方法与可信 AI 等方向，是该领域最具影响力的国际会议之一。",
+    introSourceLabel: "ICLR 2026 官网",
+    introSourceUrl: "https://iclr.cc/Conferences/2026",
     venue: "RioCentro Convention Center",
     timezone: "巴西时间 BRT (UTC-3)",
     keywords: ["Representation Learning", "Foundation Models", "Generative AI", "Optimization", "Trustworthy AI"],
@@ -36,7 +45,12 @@ export function getConferenceLandingInfo(conference: ConferenceProfile): Confere
   const fallbackResources = conference.url ? [{ label: "会议官网", url: conference.url }] : [];
 
   return {
+    introType: override.introType || "template",
+    introTitle: override.introTitle || "会议简介",
     summary: override.summary || defaultSummary(conference),
+    introSourceLabel: override.introSourceLabel || "会议官网",
+    introSourceUrl: override.introSourceUrl || conference.source?.sourceUrl || conference.url || "",
+    introUpdatedAt: override.introUpdatedAt || conference.source?.fetchedAt || "",
     venue: override.venue || conference.city || "待官网公布",
     timezone: override.timezone || "待官网公布",
     keywords: override.keywords || [conference.domain, conference.subTrack],
