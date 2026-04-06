@@ -48,7 +48,24 @@ export function ConferenceTabs({ conference, landing }: Props) {
         <div className="grid gap-5 lg:grid-cols-[1fr,340px]">
           <article className="rounded-3xl border border-line bg-panel p-5 shadow-panel">
             <h3 className="font-display text-2xl font-semibold">参会概览</h3>
-            <p className="mt-2 text-slate-600">{landing.summary}</p>
+            <div className="mt-2 rounded-2xl border border-line bg-white p-4">
+              <p className="text-xs uppercase tracking-[0.16em] text-slate-500">{landing.introTitle}</p>
+              <p className="mt-2 text-slate-700">{landing.summary}</p>
+              {landing.introSourceUrl ? (
+                <div className="mt-3 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-slate-500">
+                  <span>来源：{landing.introSourceLabel || "会议官网"}</span>
+                  <a
+                    href={landing.introSourceUrl}
+                    className="text-accent underline underline-offset-2"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    查看原文
+                  </a>
+                  {landing.introUpdatedAt ? <span>更新时间：{landing.introUpdatedAt.slice(0, 10)}</span> : null}
+                </div>
+              ) : null}
+            </div>
             <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
               <div className="rounded-2xl border border-line bg-white p-4">
                 <p className="text-xs uppercase tracking-[0.16em] text-slate-500">会议时间</p>
