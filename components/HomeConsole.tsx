@@ -202,12 +202,6 @@ export function HomeConsole() {
                 <p className="mt-2 text-3xl font-semibold">{filteredData.length}</p>
               </div>
             </div>
-            <div className="rounded-2xl border border-white/20 bg-[#0f2234]/70 p-4 backdrop-blur-sm">
-              <p className="font-display text-xs uppercase tracking-[0.2em] text-white/65">Data Lens</p>
-              <p className="mt-2 text-sm leading-relaxed text-white/85">
-                优先覆盖 AI / 系统 / 硬件工程，所有会议均可下钻到 People 档案与外链。
-              </p>
-            </div>
           </div>
         </div>
       </header>
