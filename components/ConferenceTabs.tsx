@@ -8,6 +8,7 @@ import { CardGrid } from "@/components/CardGrid";
 import { PersonCard } from "@/components/PersonCard";
 import { ConferenceLandingInfo } from "@/lib/conference-presenter";
 import { formatDateRangeShort } from "@/lib/utils";
+import { CollaborationPanel } from "@/components/CollaborationPanel";
 
 type Props = {
   conference: ConferenceProfile;
@@ -17,7 +18,8 @@ type Props = {
 const tabs = [
   { key: "overview", label: "概览" },
   { key: "committee", label: "组委会" },
-  { key: "workshops", label: "Workshops" }
+  { key: "workshops", label: "Workshops" },
+  { key: "collab", label: "协同" }
 ] as const;
 
 export function ConferenceTabs({ conference, landing }: Props) {
@@ -184,6 +186,8 @@ export function ConferenceTabs({ conference, landing }: Props) {
           ))}
         </div>
       ) : null}
+
+      {activeTab === "collab" ? <CollaborationPanel conferenceId={conference.conferenceId} /> : null}
     </section>
   );
 }
