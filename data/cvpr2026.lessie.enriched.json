@@ -1,0 +1,306 @@
+{
+  "generatedAt": "2026-04-07T06:13:35.387Z",
+  "conferenceId": "CVPR2026",
+  "totalPeople": 6,
+  "enrichedPeople": 6,
+  "applyToConferencesJson": true,
+  "people": [
+    {
+      "personId": "p_06f4a53f",
+      "name": "Fei-Fei Li",
+      "affiliation": "Stanford University",
+      "roleKey": "generalChair",
+      "roleLabel": "大会主席",
+      "isWorkshop": false,
+      "linkedIn": "http://www.linkedin.com/in/li-fei-6093b537",
+      "github": "",
+      "gScholar": "",
+      "photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+      "links": {
+        "linkedIn": {
+          "url": "http://www.linkedin.com/in/li-fei-6093b537",
+          "status": "verified",
+          "confidence": 0.96,
+          "matchReason": "lessie_match",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:find-people:mcp_7f85db46a814"
+          ]
+        },
+        "github": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Fei-Fei Li"
+          ]
+        },
+        "gScholar": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Fei-Fei Li"
+          ]
+        }
+      },
+      "sourceUrls": [
+        "lessie:find-people:mcp_7f85db46a814",
+        "lessie:web-search:Fei-Fei Li"
+      ],
+      "evidenceText": "lessie find-people + web-search",
+      "confidence": 0.32
+    },
+    {
+      "personId": "p_94cfa03d",
+      "name": "Deva Ramanan",
+      "affiliation": "Carnegie Mellon University",
+      "roleKey": "programCoChair",
+      "roleLabel": "程序共同主席",
+      "isWorkshop": false,
+      "linkedIn": "",
+      "github": "https://github.com/deva-ramanan",
+      "gScholar": "https://scholar.google.com/citations?user=9B8PoXUAAAAJ&hl=en",
+      "photo": "",
+      "links": {
+        "linkedIn": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Deva Ramanan"
+          ]
+        },
+        "github": {
+          "url": "https://github.com/deva-ramanan",
+          "status": "pending",
+          "confidence": 0.9,
+          "matchReason": "lessie_web_search",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Deva Ramanan"
+          ]
+        },
+        "gScholar": {
+          "url": "https://scholar.google.com/citations?user=9B8PoXUAAAAJ&hl=en",
+          "status": "pending",
+          "confidence": 0.9,
+          "matchReason": "lessie_web_search",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Deva Ramanan"
+          ]
+        }
+      },
+      "sourceUrls": [
+        "lessie:web-search:Deva Ramanan"
+      ],
+      "evidenceText": "lessie find-people + web-search",
+      "confidence": 0.6
+    },
+    {
+      "personId": "p_39d99a89",
+      "name": "Angjoo Kanazawa",
+      "affiliation": "UC Berkeley",
+      "roleKey": "areaChairs",
+      "roleLabel": "PC Area Chairs",
+      "isWorkshop": false,
+      "linkedIn": "https://linkedin.com/in/angjoo-kanazawa-54900918",
+      "github": "",
+      "gScholar": "https://scholar.google.com/citations?hl=en&user=Ci-_QYIAAAAJ",
+      "photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+      "links": {
+        "linkedIn": {
+          "url": "https://linkedin.com/in/angjoo-kanazawa-54900918",
+          "status": "verified",
+          "confidence": 0.96,
+          "matchReason": "lessie_match",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:find-people:mcp_349c0e502f72"
+          ]
+        },
+        "github": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Angjoo Kanazawa"
+          ]
+        },
+        "gScholar": {
+          "url": "https://scholar.google.com/citations?hl=en&user=Ci-_QYIAAAAJ",
+          "status": "pending",
+          "confidence": 0.9,
+          "matchReason": "lessie_web_search",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Angjoo Kanazawa"
+          ]
+        }
+      },
+      "sourceUrls": [
+        "lessie:find-people:mcp_349c0e502f72",
+        "lessie:web-search:Angjoo Kanazawa"
+      ],
+      "evidenceText": "lessie find-people + web-search",
+      "confidence": 0.62
+    },
+    {
+      "personId": "p_53c5de37",
+      "name": "Ce Liu",
+      "affiliation": "Microsoft Research",
+      "roleKey": "areaChairs",
+      "roleLabel": "PC Area Chairs",
+      "isWorkshop": false,
+      "linkedIn": "https://www.linkedin.com/in/ce-liu-5697501a",
+      "github": "",
+      "gScholar": "https://scholar.google.com/citations?user=j7MW4iYAAAAJ&hl=en",
+      "photo": "",
+      "links": {
+        "linkedIn": {
+          "url": "https://www.linkedin.com/in/ce-liu-5697501a",
+          "status": "pending",
+          "confidence": 0.9,
+          "matchReason": "lessie_match",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Ce Liu"
+          ]
+        },
+        "github": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Ce Liu"
+          ]
+        },
+        "gScholar": {
+          "url": "https://scholar.google.com/citations?user=j7MW4iYAAAAJ&hl=en",
+          "status": "pending",
+          "confidence": 0.9,
+          "matchReason": "lessie_web_search",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:Ce Liu"
+          ]
+        }
+      },
+      "sourceUrls": [
+        "lessie:web-search:Ce Liu"
+      ],
+      "evidenceText": "lessie find-people + web-search",
+      "confidence": 0.6
+    },
+    {
+      "personId": "p_85a7f1ce",
+      "name": "张三",
+      "affiliation": "清华大学",
+      "roleKey": "workshopOrganizer",
+      "roleLabel": "Workshop Organizer · 三维视觉前沿",
+      "isWorkshop": true,
+      "linkedIn": "http://www.linkedin.com/in/zhang-san-046a8121",
+      "github": "",
+      "gScholar": "",
+      "photo": "https://static.licdn.com/aero-v1/sc/h/9c8pery4andzj6ohjkjp54ma2",
+      "links": {
+        "linkedIn": {
+          "url": "http://www.linkedin.com/in/zhang-san-046a8121",
+          "status": "pending",
+          "confidence": 0.9,
+          "matchReason": "lessie_match",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:find-people:mcp_5d0cd7348b7b"
+          ]
+        },
+        "github": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:张三"
+          ]
+        },
+        "gScholar": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:张三"
+          ]
+        }
+      },
+      "sourceUrls": [
+        "lessie:find-people:mcp_5d0cd7348b7b",
+        "lessie:web-search:张三"
+      ],
+      "evidenceText": "lessie find-people + web-search",
+      "confidence": 0.3
+    },
+    {
+      "personId": "p_5ceab68e",
+      "name": "李四",
+      "affiliation": "北京大学",
+      "roleKey": "workshopOrganizer",
+      "roleLabel": "Workshop Organizer · 三维视觉前沿",
+      "isWorkshop": true,
+      "linkedIn": "",
+      "github": "",
+      "gScholar": "",
+      "photo": "",
+      "links": {
+        "linkedIn": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:李四"
+          ]
+        },
+        "github": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:李四"
+          ]
+        },
+        "gScholar": {
+          "url": "",
+          "status": "empty",
+          "confidence": 0,
+          "matchReason": "not_found",
+          "verifiedBy": "auto",
+          "sourceUrls": [
+            "lessie:web-search:李四"
+          ]
+        }
+      },
+      "sourceUrls": [
+        "lessie:web-search:李四"
+      ],
+      "evidenceText": "lessie find-people + web-search",
+      "confidence": 0
+    }
+  ]
+}
