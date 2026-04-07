@@ -17,6 +17,7 @@
     "publish:iclr2026": "node scripts/publish-iclr2026.mjs",
     "scrape:iclr2026": "npm run crawl:iclr2026:sources && npm run crawl:iclr2026:extract && npm run enrich:iclr2026:links && npm run publish:iclr2026",
     "benchmark:cvpr:lessie": "SAMPLE_SIZE=20 MODE=both node scripts/benchmark-cvpr-lessie.mjs",
+    "enrich:cvpr2026:lessie": "node scripts/enrich-cvpr2026-lessie.mjs",
     "prepare": "husky"
   },
   "dependencies": {
